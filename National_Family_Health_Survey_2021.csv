@@ -1,0 +1,705 @@
+State,District,Year,Women age group 15 to 49 years who are anaemic (%) (UOM:%(Percentage)) |Scaling Factor:1,Married women age group 15 to 49 years use any family planning methods (%) (UOM:%(Percentage)) |Scaling Factor:1,Children age group 12 to 23 months fully vaccinated based on information from either vaccination card or mothers recall (%) (UOM:%(Percentage)) |Scaling Factor:1,Children age group 12 to 23 months fully vaccinated based on information from vaccination card only (%) (UOM:%(Percentage)) |Scaling Factor:1,Children under 5 years who are stunted (height-for-age) (%) (UOM:%(Percentage)) |Scaling Factor:1,Households using clean fuel for cooking (%) (UOM:%(Percentage)) |Scaling Factor:1,Institutional births (%) (UOM:%(Percentage)) |Scaling Factor:1,Population living in households that use an improved sanitation facility (%) (UOM:%(Percentage)) |Scaling Factor:1,Population living in households with electricity (%) (UOM:%(Percentage)) |Scaling Factor:1,"Population and household profile-sex ratio of the total population (females per 1,000 males) (UOM:Number) |Scaling Factor:1",Women age group 15 to 49 years who are literate (%) (UOM:%(Percentage)) |Scaling Factor:1,Women with 10 or more years of schooling (%) (UOM:%(Percentage)) |Scaling Factor:1
+Andaman And Nicobar Islands,Nicobars,"Calendar Year (Jan - Dec), 2019",38.3,65.3,64.2,94.1,21.6,56.9,97.8,83.5,97.9,973,87.5,53.5
+Andaman And Nicobar Islands,North And Middle Andaman,"Calendar Year (Jan - Dec), 2019",62.1,84.1,0,0,27,61.3,97.7,86.4,93.2,950,84,41
+Andaman And Nicobar Islands,South Andamans,"Calendar Year (Jan - Dec), 2019",57.7,57.1,76.3,96.6,21.1,91.9,99.5,89.3,99.6,967,86.7,57.5
+Andhra Pradesh,Ananthapuramu,"Calendar Year (Jan - Dec), 2019",50.5,67.6,81.8,96.6,36,86.4,94.7,71.3,99.6,1047,63.6,31.3
+Andhra Pradesh,Chittoor,"Calendar Year (Jan - Dec), 2019",51.8,69,66.6,87.5,27.1,86.6,97.1,74.6,99.7,1024,69.3,40.3
+Andhra Pradesh,East Godavari,"Calendar Year (Jan - Dec), 2019",63,66.3,59,67.3,23.1,80.3,96.6,77.7,98.8,995,77.9,43.2
+Andhra Pradesh,Guntur,"Calendar Year (Jan - Dec), 2019",59.5,73.3,76.2,100,23.8,91.7,98.6,83.4,99.2,1055,68.5,32.6
+Andhra Pradesh,Krishna,"Calendar Year (Jan - Dec), 2019",60.3,79.1,90,97.2,29.8,89.8,98.9,79.1,99.6,1064,76.9,46.2
+Andhra Pradesh,Kurnool,"Calendar Year (Jan - Dec), 2019",58.6,70,67,80.4,50.5,78.1,88.5,73.5,99.9,1045,57,33.4
+Andhra Pradesh,Prakasam,"Calendar Year (Jan - Dec), 2019",60.4,69,51.9,0,22.6,90.8,97.4,78.4,99.3,1011,62.8,34.5
+Andhra Pradesh,Sri Potti Sriramulu Nellore,"Calendar Year (Jan - Dec), 2019",59.4,71.9,65.3,80.1,29.2,84.6,97,81.8,99.1,1049,70.5,38.7
+Andhra Pradesh,Srikakulam,"Calendar Year (Jan - Dec), 2019",62.6,72.3,82.8,100,19.7,74.7,97.9,71.6,99.9,1140,64.3,42.5
+Andhra Pradesh,Visakhapatnam,"Calendar Year (Jan - Dec), 2019",58,68,76.5,93.5,31,72.9,95.3,77.8,99.6,1066,69.5,46
+Andhra Pradesh,Vizianagaram,"Calendar Year (Jan - Dec), 2019",64,71.2,76.8,0,36.4,60.3,99,61.7,99.5,1114,58.3,37.6
+Andhra Pradesh,West Godavari,"Calendar Year (Jan - Dec), 2019",63,77.8,80,87,31.4,86.8,98.7,80.8,99.3,999,77,46.5
+Andhra Pradesh,Y.S.R.,"Calendar Year (Jan - Dec), 2019",56.1,69.1,83,89.7,34.4,94.3,99.4,85.4,99.8,1058,63.8,40
+Arunachal Pradesh,Anjaw,"Calendar Year (Jan - Dec), 2019",35.9,64.7,93,90.5,23.6,29,78,86.8,96.4,939,66.4,28.8
+Arunachal Pradesh,Changlang,"Calendar Year (Jan - Dec), 2019",57.2,71.4,70.9,86.1,26.3,34.1,75.1,82.3,95.2,963,74,30.5
+Arunachal Pradesh,Dibang Valley,"Calendar Year (Jan - Dec), 2019",62.9,69.1,90.7,91.2,16.9,49.3,85.5,95,79.2,983,76.6,43.2
+Arunachal Pradesh,East Kameng,"Calendar Year (Jan - Dec), 2019",26.2,64.9,60.8,78.3,35.7,49.5,76,75.6,86.3,985,59.1,31.8
+Arunachal Pradesh,East Siang,"Calendar Year (Jan - Dec), 2019",35.2,40,48.8,65.6,24.6,52.4,90.8,83.9,97.3,1059,81.9,55.6
+Arunachal Pradesh,Kra Daadi,"Calendar Year (Jan - Dec), 2019",22.6,46.1,63.6,70.3,28.8,78.3,73.5,89.3,99.7,976,53.5,27.4
+Arunachal Pradesh,Kurung Kumey,"Calendar Year (Jan - Dec), 2019",34.8,54.1,71.4,76.7,29.2,57.3,69.2,78.3,99.2,997,76,34.7
+Arunachal Pradesh,Lohit,"Calendar Year (Jan - Dec), 2019",47.2,57,74,77,24.5,63.9,90.2,83.7,98.9,1001,70.9,37.3
+Arunachal Pradesh,Longding,"Calendar Year (Jan - Dec), 2019",34.1,68.6,52.7,75.2,15.8,22.4,64.5,83.5,97.4,926,70.2,27.7
+Arunachal Pradesh,Lower Dibang Valley,"Calendar Year (Jan - Dec), 2019",34.6,75.3,73.8,81,14.3,57.4,90.1,89.9,84.4,1010,80,51.9
+Arunachal Pradesh,Lower Subansiri,"Calendar Year (Jan - Dec), 2019",40.5,65.9,66.5,88.7,30.7,60.8,89.8,82.8,97.8,1016,73.4,49.9
+Arunachal Pradesh,Namsai,"Calendar Year (Jan - Dec), 2019",58.6,69.5,67.2,83.4,28.7,28.7,63.6,75.1,96.5,982,62.6,22.2
+Arunachal Pradesh,Papum Pare,"Calendar Year (Jan - Dec), 2019",38.4,47.7,60.7,74.3,29.7,81.3,88,75.7,98.7,1039,77,50.5
+Arunachal Pradesh,Siang,"Calendar Year (Jan - Dec), 2019",23.9,73.7,60.3,,21.3,27.6,81.1,91.2,99.6,968,85.3,50.6
+Arunachal Pradesh,Tawang,"Calendar Year (Jan - Dec), 2019",59.1,62.1,67.5,76.8,30.4,88.1,84.2,81.7,99.7,1063,56.6,39.2
+Arunachal Pradesh,Tirap,"Calendar Year (Jan - Dec), 2019",32,56.1,66.3,71.2,38.6,50.4,70.2,86.7,98.8,964,72.8,40.2
+Arunachal Pradesh,Upper Siang,"Calendar Year (Jan - Dec), 2019",29.2,62,61.4,67.2,30.4,36.3,76,91.8,99.5,894,70.9,34.8
+Arunachal Pradesh,Upper Subansiri,"Calendar Year (Jan - Dec), 2019",36.7,53.2,68.5,76.3,36.8,32.8,77,80.9,87,1052,62.3,31.8
+Arunachal Pradesh,West Kameng,"Calendar Year (Jan - Dec), 2019",37.4,53.8,56.2,61,24.2,88.9,93.6,88.9,97.5,971,71.1,43.6
+Arunachal Pradesh,West Siang,"Calendar Year (Jan - Dec), 2019",30.5,46.6,55.4,60,24.5,57.1,84.6,87.7,88.2,1018,76.1,46.3
+Assam,Baksa,"Calendar Year (Jan - Dec), 2019",73.6,59.2,70.5,67.3,41.2,35.2,89.9,68.9,98.1,1057,74.8,27.8
+Assam,Barpeta,"Calendar Year (Jan - Dec), 2019",64.8,57.3,54.6,59.6,29.8,38.7,87.6,63.7,88.9,1027,74.8,31.7
+Assam,Biswanath,"Calendar Year (Jan - Dec), 2019",64.4,72.4,66.2,74.3,42.7,35,84.3,76.6,91.1,996,69.2,23
+Assam,Bongaigaon,"Calendar Year (Jan - Dec), 2019",70.6,57.6,67.9,73.2,46.2,49.8,84.5,72.5,97,998,75.8,28.6
+Assam,Cachar,"Calendar Year (Jan - Dec), 2019",57.4,48,70.4,82.1,28.7,43,79.2,57.6,81.7,1012,77.2,25.8
+Assam,Charaideo,"Calendar Year (Jan - Dec), 2019",72.3,67,74,81.5,39,27.3,88.2,75.9,91.7,1027,71.9,26.2
+Assam,Chirang,"Calendar Year (Jan - Dec), 2019",65.2,65.8,71.1,68.2,42.7,44.5,83.7,77.1,97.8,1015,71.5,23
+Assam,Darrang,"Calendar Year (Jan - Dec), 2019",70.4,46.8,57.1,58.1,42,30.1,84.4,67.9,89.5,929,75.6,27.5
+Assam,Dhemaji,"Calendar Year (Jan - Dec), 2019",62.9,72.6,89.7,90.8,37.2,21.6,87.3,70.8,95,1028,81.5,43.6
+Assam,Dhubri,"Calendar Year (Jan - Dec), 2019",63.2,64.1,71.6,69.5,48.5,40.7,64.2,61.8,92.5,1000,69.5,20.4
+Assam,Dibrugarh,"Calendar Year (Jan - Dec), 2019",70.8,64.6,83.8,85.5,27.3,44.7,93.1,75.3,94.4,1002,76.6,33.7
+Assam,Dima Hasao,"Calendar Year (Jan - Dec), 2019",60.5,65.5,63.6,63.8,30.6,48.2,89.5,83.8,95.9,959,87.7,42.4
+Assam,Goalpara,"Calendar Year (Jan - Dec), 2019",64.9,66.8,70.3,72.7,38.9,36.3,92.3,75.3,89.6,1007,74.1,23.4
+Assam,Golaghat,"Calendar Year (Jan - Dec), 2019",77.2,61.6,72.4,75.9,26.3,33.1,90.4,73.1,96.4,1002,75.1,27.9
+Assam,Hailakandi,"Calendar Year (Jan - Dec), 2019",61.4,66.8,68.6,76.9,42.9,35.2,83,60,91.2,1054,82.2,25.3
+Assam,Hojai,"Calendar Year (Jan - Dec), 2019",56.3,61.1,55.5,63.6,39.3,52,82.1,63.1,96.3,986,83.2,23.1
+Assam,Jorhat,"Calendar Year (Jan - Dec), 2019",71.8,63.8,69.2,70.4,38.7,48.3,96.5,80.4,95.1,1009,85.1,42.9
+Assam,Kamrup,"Calendar Year (Jan - Dec), 2019",71.5,38.7,63.6,73,22.6,57.4,85,68.7,94.8,997,79.6,39.2
+Assam,Kamrup Metro,"Calendar Year (Jan - Dec), 2019",74.6,56.8,53.6,69,25.4,85.1,89.1,65.2,99.2,946,86,49.1
+Assam,Karbi Anglong,"Calendar Year (Jan - Dec), 2019",59,66.3,64.3,74.3,31.6,33.4,74.9,75.2,97,994,78.8,30.3
+Assam,Karimganj,"Calendar Year (Jan - Dec), 2019",52,64.3,75.1,75.9,29.1,39.6,76.4,61.5,87.1,1000,80.7,19.6
+Assam,Kokrajhar,"Calendar Year (Jan - Dec), 2019",59.5,72.3,51.1,52.6,34.6,43.3,81.9,72.2,93.9,1025,73.7,27.5
+Assam,Lakhimpur,"Calendar Year (Jan - Dec), 2019",65.4,67.1,69,72.4,38.5,36.1,96.2,74.2,97.2,983,83.9,42.1
+Assam,Majuli,"Calendar Year (Jan - Dec), 2019",67.8,63.7,78.6,83.9,35.4,19.3,90.3,65.6,93.5,995,83.4,41.7
+Assam,Marigaon,"Calendar Year (Jan - Dec), 2019",64.2,70.6,73.4,82.9,43.2,37.6,88.3,62.3,89.5,1055,78.7,24.5
+Assam,Nagaon,"Calendar Year (Jan - Dec), 2019",61,58.6,58.2,68,38.9,38.6,83.7,66.1,94.5,1050,78.4,22.1
+Assam,Nalbari,"Calendar Year (Jan - Dec), 2019",66.4,53.3,65.5,79.8,27.5,51.1,91.8,68.1,94.7,1043,83.9,41.6
+Assam,Sivasagar,"Calendar Year (Jan - Dec), 2019",67.6,67.3,77.6,76.7,26.1,45.5,95.3,82.3,97,989,86.6,47.1
+Assam,Sonitpur,"Calendar Year (Jan - Dec), 2019",63.6,74.4,70.9,76.8,36.7,45.8,83.5,72.2,88.2,1027,76.9,24.3
+Assam,South Salmara Mancachar,"Calendar Year (Jan - Dec), 2019",57.1,71.5,65.8,66,38.9,28.5,71.7,59,79.5,968,63.5,20.9
+Assam,Tinsukia,"Calendar Year (Jan - Dec), 2019",72.8,59.2,75,78.8,32.8,40.9,82.6,66.7,95.7,1023,70.5,25.6
+Assam,Udalguri,"Calendar Year (Jan - Dec), 2019",81.5,50.2,38.3,52,33.8,34,86.2,73.8,95.5,1087,70,23.8
+Assam,West Karbi Anglong,"Calendar Year (Jan - Dec), 2019",57.9,69.9,47.9,54.5,40.9,17.7,72.5,76.7,94.7,959,73.9,21.7
+Bihar,Araria,"Calendar Year (Jan - Dec), 2019",67.9,46,61.6,71.1,49.9,15.2,66.2,32.2,96.2,1094,43.7,16.8
+Bihar,Arwal,"Calendar Year (Jan - Dec), 2019",66.9,60.5,84.2,89,45.6,29.3,79.2,43.4,97.4,1076,62.5,32.9
+Bihar,Aurangabad,"Calendar Year (Jan - Dec), 2019",60.5,69.4,89.7,90.6,41.2,38.9,77.5,47.1,97.7,1074,67.6,36.9
+Bihar,Banka,"Calendar Year (Jan - Dec), 2019",65.9,71.5,88.1,89.5,46.7,32.3,79.8,38.2,96.2,1083,55.7,22.6
+Bihar,Begusarai,"Calendar Year (Jan - Dec), 2019",62.9,55.8,65.8,80.8,37.8,45.2,86,62.2,96.2,1076,62.3,34.1
+Bihar,Bhagalpur,"Calendar Year (Jan - Dec), 2019",73,57.4,66.8,81,40,49.2,77.2,60.9,94.5,986,65.6,35.1
+Bihar,Bhojpur,"Calendar Year (Jan - Dec), 2019",73.6,63.9,61.9,80.6,40.7,42.9,86.9,45.9,97.9,1003,64.1,34.6
+Bihar,Buxar,"Calendar Year (Jan - Dec), 2019",66.2,60.5,75,81.7,39.6,44.7,89.5,52.4,98.5,1005,68.1,33.3
+Bihar,Darbhanga,"Calendar Year (Jan - Dec), 2019",60.8,61.3,66.3,80.7,45.4,41.6,69.9,48.7,97.2,1122,49.4,22.7
+Bihar,Gaya,"Calendar Year (Jan - Dec), 2019",64.3,73.3,85,84.2,47.4,34.7,76.6,44.4,97.9,1080,59.4,30.7
+Bihar,Gopalganj,"Calendar Year (Jan - Dec), 2019",53.8,57.3,75.8,97.9,34.2,39.4,85.9,60.1,96.2,1157,63.3,32.9
+Bihar,Jamui,"Calendar Year (Jan - Dec), 2019",75.2,69.6,66.4,80.2,43,40.2,73.4,37.6,97.9,1090,48.7,20.6
+Bihar,Jehanabad,"Calendar Year (Jan - Dec), 2019",68.1,52.5,70.3,79.1,41.3,34.3,89.1,45.5,99.3,1085,63.2,30.5
+Bihar,Kaimur (Bhabua),"Calendar Year (Jan - Dec), 2019",70.3,78.6,88.9,90.4,44.1,29,83.3,59.1,96.7,1018,66,29.5
+Bihar,Katihar,"Calendar Year (Jan - Dec), 2019",68.4,33.8,73.7,82.6,43.9,16.9,66.9,44.6,92,1053,49.7,19.8
+Bihar,Khagaria,"Calendar Year (Jan - Dec), 2019",59.5,40.9,64.7,84.3,34.8,33.2,74.2,65,94.5,1111,51.8,26.6
+Bihar,Kishanganj,"Calendar Year (Jan - Dec), 2019",65.1,25.3,67.3,80.9,38.8,15.3,54.6,52.4,95.8,1199,48,15
+Bihar,Lakhisarai,"Calendar Year (Jan - Dec), 2019",72.6,67,68.9,76.8,42.7,42.6,75.8,51.6,98,1074,57.9,30
+Bihar,Madhepura,"Calendar Year (Jan - Dec), 2019",65.7,55.8,72,87.7,46.3,13.4,75,34.6,97,1148,47.6,23.2
+Bihar,Madhubani,"Calendar Year (Jan - Dec), 2019",61.4,47.4,74.1,85.6,43.3,40,73.7,38.2,98.6,1227,53.2,26.5
+Bihar,Munger,"Calendar Year (Jan - Dec), 2019",71.4,68.6,73.4,84.8,35.5,59.4,93.2,62.8,98.4,1032,69.5,44.4
+Bihar,Muzaffarpur,"Calendar Year (Jan - Dec), 2019",58.9,66.1,74.9,83.7,42.6,41.5,72.5,55.2,96.6,1097,63,33.8
+Bihar,Nalanda,"Calendar Year (Jan - Dec), 2019",71,72.3,75.2,83.8,42.6,41,80.3,52.5,98.9,1048,56.1,28.8
+Bihar,Nawada,"Calendar Year (Jan - Dec), 2019",70.4,69.8,74.5,85.2,49.4,40.7,79.9,47.9,97.4,1099,62.1,37.3
+Bihar,Pashchim Champaran,"Calendar Year (Jan - Dec), 2019",50.6,50.7,62.1,82.7,43.5,31.4,79.5,43.3,93.5,1088,52.5,21.6
+Bihar,Patna,"Calendar Year (Jan - Dec), 2019",67.1,49.3,56.6,72.5,34.5,64.6,89.1,61,99,950,67.6,43.6
+Bihar,Purbi Champaran,"Calendar Year (Jan - Dec), 2019",57.3,49.9,68.3,73.8,49.1,44.2,61.5,48.3,94.8,1185,50.2,20.1
+Bihar,Purnia,"Calendar Year (Jan - Dec), 2019",66,25.7,62.7,81.8,43.5,19.3,68.9,35.6,92.4,1128,47.5,19.2
+Bihar,Rohtas,"Calendar Year (Jan - Dec), 2019",64.9,73.9,86.8,93.6,40,47.4,89.1,69,98.5,1040,76.5,42.6
+Bihar,Saharsa,"Calendar Year (Jan - Dec), 2019",65.3,44.7,72.2,88.5,47.8,25.2,70.4,40.5,97.2,1128,43.1,20.9
+Bihar,Samastipur,"Calendar Year (Jan - Dec), 2019",60.5,63.7,71.4,85.5,44,36.1,83.4,48.8,95.7,1071,54.3,26.5
+Bihar,Saran,"Calendar Year (Jan - Dec), 2019",62.8,41.1,72,85.7,39.7,36.8,73,37.2,93.6,1077,65.6,35.5
+Bihar,Sheikhpura,"Calendar Year (Jan - Dec), 2019",69.5,78.8,82.8,86.6,53.6,40.3,89.2,54.2,97.3,1074,55,28.3
+Bihar,Sheohar,"Calendar Year (Jan - Dec), 2019",61.6,65.6,62.9,73.5,34.4,31.3,74.3,57.9,97.6,1066,52.5,21
+Bihar,Sitamarhi,"Calendar Year (Jan - Dec), 2019",61.7,52.8,66.6,76.1,54.2,40.5,64.4,50.7,93.1,1209,51.7,19.2
+Bihar,Siwan,"Calendar Year (Jan - Dec), 2019",53.1,53.5,76.1,83.2,36.7,48,86.4,47.7,95.3,1141,70.9,38.9
+Bihar,Supaul,"Calendar Year (Jan - Dec), 2019",60.7,63.7,73.6,80.5,42.3,15,80.4,50.7,97.3,1126,42.1,16.2
+Bihar,Vaishali,"Calendar Year (Jan - Dec), 2019",63.1,45.8,71,84.2,38.3,40.9,81.6,52.6,96.5,1069,62.4,34
+Chhattisgarh,Balod,"Calendar Year (Jan - Dec), 2019",56.4,83.5,85.2,92.4,33.6,33.3,97.4,83.8,99.7,988,78.6,46.3
+Chhattisgarh,Balodabazar-Bhatapara,"Calendar Year (Jan - Dec), 2019",61.2,71.5,77.3,84.7,40.9,24.9,78.1,78.9,99.2,1070,73.4,38.7
+Chhattisgarh,Balrampur Ramanujganj,"Calendar Year (Jan - Dec), 2019",63.4,52,76.1,86.2,35.1,13.2,78.9,57.3,97.9,980,65.4,32.2
+Chhattisgarh,Bastar,"Calendar Year (Jan - Dec), 2019",77.2,54.2,57.3,61.1,48.1,31.6,63.5,61,96.8,1068,52.9,25.3
+Chhattisgarh,Bemetara,"Calendar Year (Jan - Dec), 2019",47,75.6,93.4,93.4,38.4,18.9,95,80.5,99.7,972,71.1,33
+Chhattisgarh,Bijapur,"Calendar Year (Jan - Dec), 2019",72.1,35.7,78.4,79,53.8,18.5,63.6,30.6,86.8,1069,44.7,24.2
+Chhattisgarh,Bilaspur,"Calendar Year (Jan - Dec), 2019",58.5,58.5,52.5,69.5,25.7,42.2,79.4,80.5,98.6,1033,72.8,37.4
+Chhattisgarh,Dakshin Bastar Dantewada,"Calendar Year (Jan - Dec), 2019",76,58.8,77.6,73.7,45.6,34.6,90.5,60.5,95.9,1098,49.3,24.2
+Chhattisgarh,Dhamtari,"Calendar Year (Jan - Dec), 2019",59.6,81.1,80.6,82.3,30.5,30.9,94.3,89.8,99.9,1057,82.7,40.9
+Chhattisgarh,Durg,"Calendar Year (Jan - Dec), 2019",51.7,80.6,82.7,87,38.9,76.3,96.7,89.5,99.6,957,80.3,52.7
+Chhattisgarh,Gariyaband,"Calendar Year (Jan - Dec), 2019",64.6,76.2,83.4,81.1,28.9,17.1,87.6,81,98.7,1048,68.9,27.8
+Chhattisgarh,Janjgir-Champa,"Calendar Year (Jan - Dec), 2019",66.3,74.8,85.5,86.8,32.5,24.8,86.2,78.8,99.5,999,74.9,37.3
+Chhattisgarh,Jashpur,"Calendar Year (Jan - Dec), 2019",61.5,56,94.2,94.1,35.8,14.8,85.6,72.8,98.2,1038,73.1,34.9
+Chhattisgarh,Kabeerdham,"Calendar Year (Jan - Dec), 2019",43.6,75.2,95.4,96.9,37.9,25,91.7,80.3,99.5,983,66.2,32.6
+Chhattisgarh,Kondagaon,"Calendar Year (Jan - Dec), 2019",79.7,68.2,70.1,64.4,37.6,12.4,78.7,79.5,97.8,1033,54.7,24.7
+Chhattisgarh,Korba,"Calendar Year (Jan - Dec), 2019",66.4,53.6,68.4,89.3,34.7,35.5,75.4,73.3,97.9,1034,73.2,37.1
+Chhattisgarh,Korea,"Calendar Year (Jan - Dec), 2019",64.4,56.4,87.1,87,32.1,30.2,80.8,73.3,97.6,987,74.8,37
+Chhattisgarh,Mahasamund,"Calendar Year (Jan - Dec), 2019",63,71.4,82.1,86.3,36.8,30.4,92.9,84.2,98.4,1057,70.6,31.2
+Chhattisgarh,Mungeli,"Calendar Year (Jan - Dec), 2019",54.5,64,79.7,85.7,30.1,22.9,69.8,80.7,99.7,1022,66.5,32.2
+Chhattisgarh,Narayanpur,"Calendar Year (Jan - Dec), 2019",72,57.7,81.7,82.7,43.7,19.5,74.2,52.8,90.1,1077,52,26.5
+Chhattisgarh,Raigarh,"Calendar Year (Jan - Dec), 2019",62.2,64.1,90.9,91.9,39.1,29.8,87.7,66.3,99,1013,74.9,38.3
+Chhattisgarh,Raipur,"Calendar Year (Jan - Dec), 2019",59.1,76.8,74.2,75.4,32.2,60.5,90.7,84,99.5,983,79.6,40.1
+Chhattisgarh,Rajnandgaon,"Calendar Year (Jan - Dec), 2019",58.3,73.3,91,91,27.6,27.4,95.5,79.2,99.3,1014,80.6,38.9
+Chhattisgarh,Sukma,"Calendar Year (Jan - Dec), 2019",78.4,53.7,73.3,76.8,41.8,14.4,81.2,35.5,98.3,1078,39.8,15.9
+Chhattisgarh,Surajpur,"Calendar Year (Jan - Dec), 2019",60.7,59.8,78.7,85,27.6,24,85.9,75.4,98.7,950,66.9,30.7
+Chhattisgarh,Surguja,"Calendar Year (Jan - Dec), 2019",58.3,55.2,84.6,89,29.4,24.5,85.3,75.8,99.3,1036,71,37.7
+Chhattisgarh,Uttar Bastar Kanker,"Calendar Year (Jan - Dec), 2019",65.2,74.7,89.5,97,24.8,25.9,94.1,80.5,99.4,1030,77.2,40.3
+Delhi,Central,"Calendar Year (Jan - Dec), 2019",44.6,68.5,82.1,94.1,33.5,98.8,92.2,77,99.8,901,83.5,57.1
+Delhi,East,"Calendar Year (Jan - Dec), 2019",42.5,81.9,74.6,80.9,35.2,99.1,92.6,78,99.5,885,83,57.2
+Delhi,New Delhi,"Calendar Year (Jan - Dec), 2019",56,77,82.2,87.5,27.4,98.3,91.8,69.4,100,859,81.8,57.9
+Delhi,North,"Calendar Year (Jan - Dec), 2019",47.2,57.4,66.2,76.2,25,98.1,89.7,70.2,99.8,905,80,53.9
+Delhi,North East,"Calendar Year (Jan - Dec), 2019",45.9,79,86.4,83.2,38.7,99.7,89.2,89.5,99.9,906,83.8,59.8
+Delhi,North West,"Calendar Year (Jan - Dec), 2019",51.4,80,78.3,78,26.9,99.1,94,88.2,100,904,85,62.9
+Delhi,Shahdara,"Calendar Year (Jan - Dec), 2019",49.2,78,82.5,75.5,32.9,99.8,95.8,83.4,99.9,935,83.9,58.4
+Delhi,South,"Calendar Year (Jan - Dec), 2019",46.2,83.2,86.2,85.1,33.4,97.7,82,89.5,99.9,922,86.1,61.6
+Delhi,South East,"Calendar Year (Jan - Dec), 2019",47.9,84.1,64.6,62.3,21.7,99.1,96.1,83.8,99.7,949,84.9,65.5
+Delhi,South West,"Calendar Year (Jan - Dec), 2019",56.4,78.5,77.3,74.2,27.1,99.3,92.5,86.2,100,881,87.5,68.4
+Delhi,West,"Calendar Year (Jan - Dec), 2019",57.2,75.4,67.5,78.4,36.1,99,91.8,76.8,100,953,82.3,56.3
+Goa,North Goa,"Calendar Year (Jan - Dec), 2019",40,63.1,78.6,87.5,24.2,96.7,99.6,87.7,100,1017,92.4,72
+Goa,South Goa,"Calendar Year (Jan - Dec), 2019",37.6,75,0,0,28.3,96.2,100,88.2,100,1040,93.8,70.9
+Gujarat,Ahmadabad,"Calendar Year (Jan - Dec), 2019",63.7,79,65.2,76.5,35.5,89.7,94.5,86.4,99.5,928,81.5,42.7
+Gujarat,Amreli,"Calendar Year (Jan - Dec), 2019",50,62.2,60.1,68.1,35.3,65.6,90.1,73.3,99.6,984,77.2,27.2
+Gujarat,Anand,"Calendar Year (Jan - Dec), 2019",66.4,53.7,77,85.4,38.4,65.1,96,82.1,98,912,75.9,32.2
+Gujarat,Arvalli,"Calendar Year (Jan - Dec), 2019",77.3,68.7,77,86.9,47.1,47.9,92.2,56.3,96.5,996,71.9,34.7
+Gujarat,Banas Kantha,"Calendar Year (Jan - Dec), 2019",60,42.6,43.5,66.5,39,45.6,92.9,53.9,91.1,1007,63.7,17.6
+Gujarat,Bharuch,"Calendar Year (Jan - Dec), 2019",71.8,36.2,80,92.1,40.9,60.2,91.1,77.7,98.2,960,74,31.5
+Gujarat,Bhavnagar,"Calendar Year (Jan - Dec), 2019",49.4,45.7,74.3,94,32.6,59.8,94.2,72.9,96.9,942,74.2,26.3
+Gujarat,Botad,"Calendar Year (Jan - Dec), 2019",58.8,49.3,65.1,77.6,32.2,63,93.5,72,99.3,975,71.8,22
+Gujarat,Chhotaudepur,"Calendar Year (Jan - Dec), 2019",78.9,77.5,81.7,80.1,48.6,25.7,85.7,53,95.3,1016,53.2,20.3
+Gujarat,Dang,"Calendar Year (Jan - Dec), 2019",77.2,79.8,91.3,96.2,37.6,23.4,74.5,71.7,95.9,1023,68.9,20.7
+Gujarat,Devbhumi Dwarka,"Calendar Year (Jan - Dec), 2019",48.8,47.7,73.3,77,30.2,61.2,94.8,73.4,98.7,1010,66.1,15.8
+Gujarat,Dohad,"Calendar Year (Jan - Dec), 2019",75.1,70.8,66.2,74.8,55.3,26.8,92.5,35.9,89.3,1047,56.1,23.1
+Gujarat,Gandhinagar,"Calendar Year (Jan - Dec), 2019",68.8,49.3,77.7,95.2,38.1,76.9,97.8,84.6,97.8,924,81.8,37.9
+Gujarat,Gir Somnath,"Calendar Year (Jan - Dec), 2019",49.9,57.8,69.9,93.5,44.4,46.8,87.1,74.3,99.5,981,73.1,30.8
+Gujarat,Jamnagar,"Calendar Year (Jan - Dec), 2019",50.2,85.2,78.4,80,28.4,81.6,96.5,86.6,98.9,1004,83.1,35.3
+Gujarat,Junagadh,"Calendar Year (Jan - Dec), 2019",58.8,48,93.5,93.4,37.3,67.2,97.4,81.7,99.3,999,82.8,35
+Gujarat,Kachchh,"Calendar Year (Jan - Dec), 2019",57.5,76.5,70.2,75.3,37.5,67.2,97.4,85.8,99.2,979,75.6,24.1
+Gujarat,Kheda,"Calendar Year (Jan - Dec), 2019",76.1,29.8,69,84.9,37.3,48,95.2,63.3,96.9,934,70.9,24.2
+Gujarat,Mahesana,"Calendar Year (Jan - Dec), 2019",69.3,46.3,79.6,91.1,31,63.1,97.3,72.1,97.7,913,75.1,32.6
+Gujarat,Mahisagar,"Calendar Year (Jan - Dec), 2019",72.5,73.3,80,83.4,43.4,47.4,93,44.4,95.2,993,70.9,33.9
+Gujarat,Morbi,"Calendar Year (Jan - Dec), 2019",50.7,73.3,64.2,73.5,32.9,73.6,94.8,80.1,99.9,981,82.4,35.4
+Gujarat,Narmada,"Calendar Year (Jan - Dec), 2019",75.9,80.2,82.8,93.8,47.2,31.3,81.7,54.6,92.7,1006,67.3,22.6
+Gujarat,Navsari,"Calendar Year (Jan - Dec), 2019",68.7,78.2,95,95.5,36.8,70.2,99.3,80.1,98.7,1056,84.1,47.7
+Gujarat,Panch Mahals,"Calendar Year (Jan - Dec), 2019",69.8,71.4,95.4,95.4,47.1,43.6,88.4,58.9,95.5,969,71.7,28.4
+Gujarat,Patan,"Calendar Year (Jan - Dec), 2019",59.8,65.6,81,91.9,50.5,62.6,98.6,73.1,98.3,967,71.1,22.6
+Gujarat,Porbandar,"Calendar Year (Jan - Dec), 2019",47.6,75.5,82.9,82.2,18.2,76.9,100,85.7,99.8,1000,84.3,35.9
+Gujarat,Rajkot,"Calendar Year (Jan - Dec), 2019",60.5,78.8,84.9,85.6,38.9,83.6,99.3,85.4,99.6,975,84.7,42.6
+Gujarat,Sabar Kantha,"Calendar Year (Jan - Dec), 2019",67.3,66.4,88.5,89.7,37,58.7,89.4,61,95.3,987,74.5,31.1
+Gujarat,Surat,"Calendar Year (Jan - Dec), 2019",69,78.7,92.8,92.8,36.1,88.6,97.7,82,99.3,912,84.2,44
+Gujarat,Surendranagar,"Calendar Year (Jan - Dec), 2019",55.6,76,62.5,68.4,39.2,56.9,85.6,63.8,99.4,957,75.1,23.3
+Gujarat,Tapi,"Calendar Year (Jan - Dec), 2019",77.4,83.1,97.5,95,41.7,45.5,92.9,70.2,97.6,1076,72,32.5
+Gujarat,Vadodara,"Calendar Year (Jan - Dec), 2019",72.3,58.5,84.9,90.8,42.3,78.1,95.9,85.6,97.3,953,84.6,46.4
+Gujarat,Valsad,"Calendar Year (Jan - Dec), 2019",75.7,76.1,91.1,92.5,37.8,73.1,96.5,85.3,98.6,1009,82.9,45.6
+Haryana,Ambala,"Calendar Year (Jan - Dec), 2019",46.1,69.5,79.3,86.9,24.1,81.6,97.8,87.2,99.6,930,85,55.3
+Haryana,Bhiwani,"Calendar Year (Jan - Dec), 2019",66.4,72,72.5,80.4,29,36.6,97.7,89.7,100,985,78.8,47
+Haryana,Charki Dadri,"Calendar Year (Jan - Dec), 2019",72.6,69.4,84.2,89.3,23.9,36.2,98.9,90.4,99.5,964,83.6,54.5
+Haryana,Faridabad,"Calendar Year (Jan - Dec), 2019",54.2,77.5,69.5,73.2,28.9,89.3,92.5,84.2,100,890,82.3,55.6
+Haryana,Fatehabad,"Calendar Year (Jan - Dec), 2019",62.3,75.8,90.7,96.7,24.6,43.7,97.9,87.3,99.8,908,71.1,41.5
+Haryana,Gurugram,"Calendar Year (Jan - Dec), 2019",67.5,70.3,58.7,80.1,22.1,81,96.7,84.5,99.4,871,85.4,59.6
+Haryana,Hisar,"Calendar Year (Jan - Dec), 2019",63.8,74.4,85.5,90.6,27.8,44.8,98.2,89.1,99.7,939,77.7,43.9
+Haryana,Jhajjar,"Calendar Year (Jan - Dec), 2019",60.1,80.2,90.9,84.1,15.6,55.9,97.2,91.7,99.8,982,88.2,62.7
+Haryana,Jind,"Calendar Year (Jan - Dec), 2019",59.6,79.2,77.5,83.3,25.5,42.1,98.7,88.5,100,977,81.3,45.3
+Haryana,Kaithal,"Calendar Year (Jan - Dec), 2019",61.5,76.5,74.3,86.3,29.9,55.9,98.2,89.7,100,929,70.9,45.9
+Haryana,Karnal,"Calendar Year (Jan - Dec), 2019",61.9,79.1,88.9,84.6,29.2,74.1,99,83.5,99.2,970,84,46.8
+Haryana,Kurukshetra,"Calendar Year (Jan - Dec), 2019",57.1,68.4,69.8,72.1,24.9,77.6,98.4,82.6,99.6,941,83,48.4
+Haryana,Mahendragarh,"Calendar Year (Jan - Dec), 2019",61.2,70.2,73.9,70.1,25.2,34.2,98.9,79.8,99.6,936,81.1,52.4
+Haryana,Nuh,"Calendar Year (Jan - Dec), 2019",60.6,37.8,53.8,63.5,44.4,22,74.6,71.7,98.6,914,41.9,13.9
+Haryana,Palwal,"Calendar Year (Jan - Dec), 2019",57.2,71.2,69,74.4,31,34.6,78.3,80.3,98.9,943,68.3,39.4
+Haryana,Panchkula,"Calendar Year (Jan - Dec), 2019",57.1,76.6,85.1,92.6,21.8,81.1,97,82.6,99.5,936,84.9,60.3
+Haryana,Panipat,"Calendar Year (Jan - Dec), 2019",66.9,70.1,80.6,79.4,25.1,73,97.1,79.3,99.6,917,83.8,52.1
+Haryana,Rewari,"Calendar Year (Jan - Dec), 2019",61.8,70.6,79.3,83.6,25.9,54.9,98.7,86.4,100,885,86,58.7
+Haryana,Rohtak,"Calendar Year (Jan - Dec), 2019",65.3,74.4,77.4,88.1,28.9,67.3,97.4,90,99.7,942,85.8,55.9
+Haryana,Sirsa,"Calendar Year (Jan - Dec), 2019",61.9,74,,,25,38.8,99.3,81.9,99.9,909,70.6,44.7
+Haryana,Sonipat,"Calendar Year (Jan - Dec), 2019",53.3,78.7,83,77.4,23.6,69.9,99.7,86.7,99.3,844,87.3,56.8
+Haryana,Yamunanagar,"Calendar Year (Jan - Dec), 2019",56.6,79.1,82.9,85.6,27.7,77.7,94.8,83.5,99.8,923,85.8,51.2
+Himachal Pradesh,Bilaspur,"Calendar Year (Jan - Dec), 2019",53,80.8,100,100,40.1,35.8,91.7,80.8,100,1096,91.2,64.2
+Himachal Pradesh,Chamba,"Calendar Year (Jan - Dec), 2019",43.7,81.8,100,100,42.6,35,72,86.5,99.1,1073,84.1,50.9
+Himachal Pradesh,Hamirpur,"Calendar Year (Jan - Dec), 2019",49.5,57.7,74.3,100,27.3,44.7,97.6,85.5,99.7,1182,94.8,76.1
+Himachal Pradesh,Kangra,"Calendar Year (Jan - Dec), 2019",63.4,59.1,83.9,92,28,49.1,90.2,73.3,99.7,1051,94.4,69.9
+Himachal Pradesh,Kinnaur,"Calendar Year (Jan - Dec), 2019",51.7,83.4,91.7,91.7,32.2,70.4,82.7,80.1,99.6,967,89.1,56.1
+Himachal Pradesh,Kullu,"Calendar Year (Jan - Dec), 2019",52.8,78.3,80.2,95,35.9,65,87,81.2,99.2,1008,87.4,54.4
+Himachal Pradesh,Lahul And Spiti,"Calendar Year (Jan - Dec), 2019",82.1,78.5,77.9,100,28.5,71.7,86.4,61.7,99.8,1077,86.2,55.9
+Himachal Pradesh,Mandi,"Calendar Year (Jan - Dec), 2019",48.9,81.4,94.1,98,31.3,38.6,86.6,87,99.5,1159,94,71.8
+Himachal Pradesh,Shimla,"Calendar Year (Jan - Dec), 2019",46.5,89.1,96.5,98.2,27.1,78,92.2,87.3,100,956,93.4,69.7
+Himachal Pradesh,Sirmaur,"Calendar Year (Jan - Dec), 2019",50.1,86.9,93.9,93.7,28.6,46.8,87.4,84.3,99.2,923,84.9,55.6
+Himachal Pradesh,Solan,"Calendar Year (Jan - Dec), 2019",47.5,84.6,92.6,100,32.3,62.5,90.2,81.8,99.2,947,91,62.3
+Himachal Pradesh,Una,"Calendar Year (Jan - Dec), 2019",60.8,53.3,75.3,93.8,24.7,46.2,89.7,81.4,98.5,1026,92.5,66.8
+Jammu And Kashmir,Anantnag,"Calendar Year (Jan - Dec), 2019",74.3,58.3,83.3,100,28.2,76.5,90.5,84.7,98.7,974,74.7,52.8
+Jammu And Kashmir,Bandipora,"Calendar Year (Jan - Dec), 2019",73.7,41.4,90.3,92.1,25.2,77.9,92.8,66.8,99,970,66.6,35.9
+Jammu And Kashmir,Baramulla,"Calendar Year (Jan - Dec), 2019",72.5,31.1,73.7,98.2,23.2,76.5,96.2,77.7,98.7,955,67.9,35.9
+Jammu And Kashmir,Budgam,"Calendar Year (Jan - Dec), 2019",73.9,59.9,92.5,95.5,26.8,71.1,96.5,77,99.5,937,74.1,48.2
+Jammu And Kashmir,Doda,"Calendar Year (Jan - Dec), 2019",66.5,69.5,61.7,75.3,32.7,42.4,73.5,70.9,99.6,943,69.2,46.8
+Jammu And Kashmir,Ganderbal,"Calendar Year (Jan - Dec), 2019",77.2,34.4,81.2,88.1,18.5,84.4,98,78.4,99.5,931,64,34.3
+Jammu And Kashmir,Jammu,"Calendar Year (Jan - Dec), 2019",66.6,67.9,84.1,100,27,87.9,96.5,81.2,100,939,91.5,70.8
+Jammu And Kashmir,Kathua,"Calendar Year (Jan - Dec), 2019",53.6,74.9,100,100,21.8,68.5,97.1,75.4,99.7,894,87.7,64.9
+Jammu And Kashmir,Kishtwar,"Calendar Year (Jan - Dec), 2019",84.8,52.5,91.6,100,27.5,50.6,91.6,59.6,88.8,978,71.3,48
+Jammu And Kashmir,Kulgam,"Calendar Year (Jan - Dec), 2019",77,70.8,98.1,98,28.4,40.3,98.9,80.5,99.8,962,70.9,42.4
+Jammu And Kashmir,Kupwara,"Calendar Year (Jan - Dec), 2019",73.5,64.5,93.2,100,24.9,62,97.1,67.7,99.3,987,76,44.9
+Jammu And Kashmir,Poonch,"Calendar Year (Jan - Dec), 2019",54.1,58.8,91.2,92.1,25.9,44.6,86,66.7,99.7,946,79.3,46.8
+Jammu And Kashmir,Pulwama,"Calendar Year (Jan - Dec), 2019",73.2,61.8,88.8,94,22.4,76.6,97.8,91.6,99.1,953,76.6,49.4
+Jammu And Kashmir,Rajouri,"Calendar Year (Jan - Dec), 2019",60.6,65.9,95,98.1,30.3,42.8,88.8,63.3,100,901,79.4,46.4
+Jammu And Kashmir,Ramban,"Calendar Year (Jan - Dec), 2019",59.7,56.5,78.9,93.7,25.7,35.8,80.4,48.9,97.4,915,62.2,35.5
+Jammu And Kashmir,Reasi,"Calendar Year (Jan - Dec), 2019",62.9,56.9,79.1,86.6,17.7,35.2,69.3,62.7,99.9,967,68.2,41.9
+Jammu And Kashmir,Samba,"Calendar Year (Jan - Dec), 2019",62.4,62.8,90.9,97.8,24.5,73,97.9,78.8,99.8,960,84.8,60.6
+Jammu And Kashmir,Shopian,"Calendar Year (Jan - Dec), 2019",63.9,60.8,92.2,100,22,66.1,98.3,86.5,99.9,958,80.8,55.2
+Jammu And Kashmir,Srinagar,"Calendar Year (Jan - Dec), 2019",51.7,56.5,90.9,100,33,98.4,99.2,86.8,100,972,78.4,60.5
+Jammu And Kashmir,Udhampur,"Calendar Year (Jan - Dec), 2019",56.5,69.7,85.8,97.7,37.3,55.1,87.2,69.8,99.9,946,77.3,43.7
+Jharkhand,Bokaro,"Calendar Year (Jan - Dec), 2019",68.8,68.5,71,72.9,36.2,47,80.9,64.4,97.3,1006,69.2,45
+Jharkhand,Chatra,"Calendar Year (Jan - Dec), 2019",56,59.5,71.7,82.4,42.2,20.4,71.5,48.1,92.1,1136,57.7,27.7
+Jharkhand,Deoghar,"Calendar Year (Jan - Dec), 2019",70.2,65.4,54.5,54.7,41.7,23.5,61.3,41.6,95.6,1068,50.7,19.7
+Jharkhand,Dhanbad,"Calendar Year (Jan - Dec), 2019",63.8,67.3,66.1,72.5,27,37.2,78.8,67.6,98.5,986,69.7,37.9
+Jharkhand,Dumka,"Calendar Year (Jan - Dec), 2019",73.4,60,78.9,76.6,38.2,18.1,60.3,41.5,93.2,1067,51.8,19.1
+Jharkhand,East Singhbum,"Calendar Year (Jan - Dec), 2019",64.4,61,88.8,87,35.9,57.6,94,70.2,95.7,1016,73.8,46.8
+Jharkhand,Garhwa,"Calendar Year (Jan - Dec), 2019",62.7,58.3,77.2,82.9,47.7,24.7,84,54.1,85,1108,59.6,31
+Jharkhand,Giridih,"Calendar Year (Jan - Dec), 2019",64.7,63.7,70.6,83.6,31.9,32.4,70.7,59.2,96.5,1091,53.4,25
+Jharkhand,Godda,"Calendar Year (Jan - Dec), 2019",66.3,65,63.9,71,39.4,19.7,70.2,54.9,93.5,1012,46.6,19.6
+Jharkhand,Gumla,"Calendar Year (Jan - Dec), 2019",59.5,52.7,85.3,86.2,40.2,19.1,83.8,50.1,89.1,1024,63.7,33.3
+Jharkhand,Hazaribagh,"Calendar Year (Jan - Dec), 2019",56.1,60.8,70.1,80.5,37.8,36.8,82,55.6,98.2,1083,67.2,40.1
+Jharkhand,Jamtara,"Calendar Year (Jan - Dec), 2019",77.7,69.3,78.8,82.9,41.9,20.3,75.4,52.8,92.2,996,53.5,21.4
+Jharkhand,Khunti,"Calendar Year (Jan - Dec), 2019",70,58.4,71.9,79.6,38.5,18.7,73.8,55.2,92.9,992,55.3,29.3
+Jharkhand,Koderma,"Calendar Year (Jan - Dec), 2019",64.9,63.6,73.8,87.4,34.6,35.8,91.3,54,97.1,1141,63.6,31.8
+Jharkhand,Latehar,"Calendar Year (Jan - Dec), 2019",63.6,56.6,75,74.5,40.1,14.2,70.3,51.4,89,1115,54.9,26.5
+Jharkhand,Lohardaga,"Calendar Year (Jan - Dec), 2019",61.7,56.6,88.2,88.2,40.7,34,84.1,67.7,99.2,1052,65.2,35
+Jharkhand,Pakur,"Calendar Year (Jan - Dec), 2019",79.7,55.4,69.4,69.5,51.3,16.9,64.6,38.3,91.7,1074,41.4,13.6
+Jharkhand,Palamu,"Calendar Year (Jan - Dec), 2019",61,60.1,80.9,81.5,43.7,25.4,74.9,46.3,95.8,1183,62.5,36.5
+Jharkhand,Ramgarh,"Calendar Year (Jan - Dec), 2019",62.3,68.2,81.8,89.2,35.3,33.2,79,64.2,98.4,955,71,44.3
+Jharkhand,Ranchi,"Calendar Year (Jan - Dec), 2019",58.9,61.5,73.8,85.4,28.3,57.7,87.3,77.2,99.3,1004,76,49.5
+Jharkhand,Sahebganj,"Calendar Year (Jan - Dec), 2019",71.5,50.4,66,72.6,49.1,17.4,64.7,43.2,91.6,1092,48.8,18.6
+Jharkhand,Saraikela Kharsawan,"Calendar Year (Jan - Dec), 2019",70.2,66.9,80.9,85.3,40,31.5,81.8,60.9,93.5,996,64,36
+Jharkhand,Simdega,"Calendar Year (Jan - Dec), 2019",70.6,48.5,79.3,81.1,42.2,15.9,75.7,71.3,84.1,1064,66.4,29.7
+Jharkhand,West Singhbhum,"Calendar Year (Jan - Dec), 2019",72.6,55.9,87,89,60.6,15.5,67.9,37.7,83.3,1049,47.8,22.9
+Karnataka,Bagalkote,"Calendar Year (Jan - Dec), 2019",48,65.3,78.6,79.5,48.3,56.6,95.2,51.3,98.9,1007,69.7,37.7
+Karnataka,Ballari,"Calendar Year (Jan - Dec), 2019",58.1,62.7,71.5,79.2,36.1,76.2,95.7,64.1,98.9,1038,64.4,39.9
+Karnataka,Belagavi,"Calendar Year (Jan - Dec), 2019",52.9,70.8,81.4,86.5,32.8,74.8,97.5,67.7,99.1,1032,74,47.8
+Karnataka,Bengaluru Rural,"Calendar Year (Jan - Dec), 2019",44.2,77.5,92.7,92.5,36.6,93.6,100,88.8,99.2,986,83.8,56.3
+Karnataka,Bengaluru Urban,"Calendar Year (Jan - Dec), 2019",35.5,73.2,78.2,88.4,31.3,97.2,99.3,90.4,98.8,1006,87.3,70.1
+Karnataka,Bidar,"Calendar Year (Jan - Dec), 2019",55.9,69.1,74.8,77.7,36.8,65.2,99,56.5,98.8,1034,73.8,45
+Karnataka,Chamarajanagara,"Calendar Year (Jan - Dec), 2019",46.3,79.8,93.3,90.8,32.2,89,100,75.2,98.7,1037,72.4,41.7
+Karnataka,Chikkaballapura,"Calendar Year (Jan - Dec), 2019",45.5,77.8,76.6,79.5,31.3,89.4,99,84.9,99.9,1067,76.3,48
+Karnataka,Chikkamagaluru,"Calendar Year (Jan - Dec), 2019",40.8,79.7,91,93.4,27.3,79,98.4,92.3,99.3,1041,82.9,48.3
+Karnataka,Chitradurga,"Calendar Year (Jan - Dec), 2019",44.6,72.8,94.6,97.2,36,80.6,98.3,63.1,99.8,1023,75.6,48.3
+Karnataka,Dakshina Kannada,"Calendar Year (Jan - Dec), 2019",38.8,61.9,86.8,93.9,25.1,82,100,97.1,99.8,1063,92.7,62.8
+Karnataka,Davangere,"Calendar Year (Jan - Dec), 2019",51.7,47.1,79.4,83.5,38.4,79.1,98.3,83.3,98.8,967,76,47.1
+Karnataka,Dharwad,"Calendar Year (Jan - Dec), 2019",52.1,67.1,87.6,93.6,45.2,79.1,99.7,79.3,99.4,1022,81.8,51.4
+Karnataka,Gadag,"Calendar Year (Jan - Dec), 2019",50.5,58.3,74.3,81.4,45.2,56.3,96.2,55.2,98.6,1060,70.7,45.1
+Karnataka,Hassan,"Calendar Year (Jan - Dec), 2019",42.2,78.1,96.8,94.3,27.1,86.1,100,87.9,99.3,1102,82,51.3
+Karnataka,Haveri,"Calendar Year (Jan - Dec), 2019",50.8,44.6,95.7,93.4,29.9,60.7,97.2,68.9,99.1,978,71.5,40
+Karnataka,Kalaburagi,"Calendar Year (Jan - Dec), 2019",56,53,75.3,86.3,34.5,58.5,88.7,36.5,99.4,1023,68.2,42
+Karnataka,Kodagu,"Calendar Year (Jan - Dec), 2019",39.9,73,90.6,96.5,30.4,78.3,98.4,93.9,98.7,1168,88.5,58.9
+Karnataka,Kolar,"Calendar Year (Jan - Dec), 2019",43.6,72.7,86.3,86.3,31.1,89.9,99.6,89.2,99.5,1030,78.3,55
+Karnataka,Koppal,"Calendar Year (Jan - Dec), 2019",54.8,63.4,84.8,93.4,49.1,47.4,90.7,58.8,99.2,994,59.8,34.4
+Karnataka,Mandya,"Calendar Year (Jan - Dec), 2019",47,80,93.9,96.9,24.3,90.5,99.5,86.7,98.4,1122,78.3,52.5
+Karnataka,Mysuru,"Calendar Year (Jan - Dec), 2019",48,79.5,97.2,92.6,27.5,94.7,100,86.4,99.5,1077,78.9,49.6
+Karnataka,Raichur,"Calendar Year (Jan - Dec), 2019",60.4,50.1,80.2,89.6,39.8,64.9,88.9,53,99.7,1033,54.3,31.7
+Karnataka,Ramanagara,"Calendar Year (Jan - Dec), 2019",45.5,78.1,100,92.6,15.6,92,100,89.6,99.6,1064,82.7,54.5
+Karnataka,Shivamogga,"Calendar Year (Jan - Dec), 2019",41.9,76.4,96.1,97.9,29,85.7,99.7,85.4,99.5,1010,79.8,49.1
+Karnataka,Tumakuru,"Calendar Year (Jan - Dec), 2019",49.3,77,97.7,93.5,40.3,85.3,100,86.1,99.6,1085,81.9,58.9
+Karnataka,Udupi,"Calendar Year (Jan - Dec), 2019",47.3,72,89.9,87.8,23.1,67.8,98.9,94.5,99.6,1148,90.3,55.4
+Karnataka,Uttara Kannada,"Calendar Year (Jan - Dec), 2019",44.6,69.3,93.6,96.8,29.6,73.4,99.3,89.6,99.1,1011,84.3,49.2
+Karnataka,Vijayapura,"Calendar Year (Jan - Dec), 2019",52.9,63.1,71.1,73.2,45.9,60.6,91.8,44.8,97.6,995,66.6,37.1
+Karnataka,Yadgir,"Calendar Year (Jan - Dec), 2019",57.3,64,82.6,84.6,57.6,48.8,93.3,37.4,99,1020,48.1,26.4
+Kerala,Alappuzha,"Calendar Year (Jan - Dec), 2019",31.9,61.5,61.9,0,20.1,79.2,99.4,99.2,99.9,1108,99.7,78.8
+Kerala,Ernakulam,"Calendar Year (Jan - Dec), 2019",31.7,69.7,82.6,96.9,22,88.4,99.1,99.3,100,1046,99.3,83.8
+Kerala,Idukki,"Calendar Year (Jan - Dec), 2019",32,72.3,89.6,89.6,24.3,54.3,100,97.5,99,1029,94.4,73.2
+Kerala,Kannur,"Calendar Year (Jan - Dec), 2019",39.7,61.9,77.7,88.4,19.4,70.4,100,99.5,99.7,1203,99.1,74.1
+Kerala,Kasaragod,"Calendar Year (Jan - Dec), 2019",35.4,56.4,92.5,98,25.3,73.5,100,98.9,99.5,1134,95.9,68.3
+Kerala,Kollam,"Calendar Year (Jan - Dec), 2019",36,62.9,85.4,0,15.5,80.1,100,97.5,99.8,1171,98.2,80.6
+Kerala,Kottayam,"Calendar Year (Jan - Dec), 2019",38.7,44.7,0,0,23.4,72.5,98.7,98.6,99.6,1071,99.7,85.8
+Kerala,Kozhikode,"Calendar Year (Jan - Dec), 2019",29.8,67.7,88.8,92.3,21.3,73.8,100,99.6,99.6,1112,99.1,84.3
+Kerala,Malappuram,"Calendar Year (Jan - Dec), 2019",34.7,58.6,80.3,82.6,29.4,59,100,99.9,99.7,1101,99.2,69.5
+Kerala,Palakkad,"Calendar Year (Jan - Dec), 2019",49.6,58.9,51.8,73.2,29.7,67.5,100,99,98.9,1148,94.4,63.2
+Kerala,Pathanamthitta,"Calendar Year (Jan - Dec), 2019",36.4,59.3,0,0,22.7,60.1,99.1,98.9,99.6,1174,99.7,84.5
+Kerala,Thiruvananthapuram,"Calendar Year (Jan - Dec), 2019",33,41.3,72.8,0,19.5,72.2,99.5,95.4,99.9,1145,98.5,83.1
+Kerala,Thrissur,"Calendar Year (Jan - Dec), 2019",44.4,69.7,0,0,22,76.3,100,99.5,100,1167,99.4,79.2
+Kerala,Wayanad,"Calendar Year (Jan - Dec), 2019",26.9,78.9,86.4,88.4,31.3,55.7,100,97.6,97,1019,93.7,68
+Ladakh,Kargil,"Calendar Year (Jan - Dec), 2019",92,46.9,87.5,100,36.5,58.1,93.7,42.3,99.1,975,77.2,50.3
+Ladakh,Leh Ladakh,"Calendar Year (Jan - Dec), 2019",93.5,55.6,88.9,100,24.3,93.5,96.4,42.4,99.8,967,76.4,49.8
+Madhya Pradesh,Agar-Malwa,"Calendar Year (Jan - Dec), 2019",59.2,78.2,75.8,,40.3,39.5,98.9,72.3,99.5,919,55.5,19.3
+Madhya Pradesh,Alirajpur,"Calendar Year (Jan - Dec), 2019",60.5,75.9,84.1,82.7,34.6,17.4,83.2,84.7,98.5,1008,40.8,17.3
+Madhya Pradesh,Anuppur,"Calendar Year (Jan - Dec), 2019",52.6,65.5,86.6,90.1,24,21.7,84.8,69.4,97,1008,72.1,28.6
+Madhya Pradesh,Ashoknagar,"Calendar Year (Jan - Dec), 2019",46.1,76.6,69.1,82,32.6,20.3,91.3,53.7,98.6,935,57,17.6
+Madhya Pradesh,Balaghat,"Calendar Year (Jan - Dec), 2019",60.6,75.2,75.8,82,41.9,31.1,95.1,79.6,98.7,1037,77.4,39.2
+Madhya Pradesh,Barwani,"Calendar Year (Jan - Dec), 2019",58.4,76.1,76.1,78.3,45.8,40.5,85.1,61,99.3,997,49.3,19.3
+Madhya Pradesh,Betul,"Calendar Year (Jan - Dec), 2019",56.2,77.2,80.9,83.6,30.8,36,87.6,59.8,98.1,993,72.7,38.7
+Madhya Pradesh,Bhind,"Calendar Year (Jan - Dec), 2019",69.9,58.7,70.7,77.8,32.2,31,93.5,79.9,98.2,979,70.2,28.9
+Madhya Pradesh,Bhopal,"Calendar Year (Jan - Dec), 2019",53.5,78.7,,,19.9,83.6,98.3,79.6,99.6,927,80,47.4
+Madhya Pradesh,Burhanpur,"Calendar Year (Jan - Dec), 2019",57.3,75.7,91.7,92.6,38.7,68.2,90.7,74,98.3,941,64.7,26.3
+Madhya Pradesh,Chhatarpur,"Calendar Year (Jan - Dec), 2019",63.5,72.9,72.9,80.4,45.1,30.1,85.2,55.5,96.8,929,60.5,24.7
+Madhya Pradesh,Chhindwara,"Calendar Year (Jan - Dec), 2019",41.7,80.2,65.3,75.7,23.9,43.6,92.2,77.1,98.9,1032,72.7,40.2
+Madhya Pradesh,Damoh,"Calendar Year (Jan - Dec), 2019",48.1,72.9,60.8,76.9,40.3,28.1,85,40.6,97.3,953,61.6,24.8
+Madhya Pradesh,Datia,"Calendar Year (Jan - Dec), 2019",58.6,73.1,79.6,80.6,36.8,31.2,89.4,66.8,99.8,916,67.2,27.8
+Madhya Pradesh,Dewas,"Calendar Year (Jan - Dec), 2019",51.3,63.6,87.1,95,36.8,51,92.2,69.6,99.6,946,64.2,27.7
+Madhya Pradesh,Dhar,"Calendar Year (Jan - Dec), 2019",50.2,77.7,75.4,82.3,28.8,44.8,95.5,61.9,97.6,991,55.6,23.8
+Madhya Pradesh,Dindori,"Calendar Year (Jan - Dec), 2019",65.2,78.1,80.3,81.7,38.9,12.1,77.6,47.9,97.4,1037,63.7,25.8
+Madhya Pradesh,Guna,"Calendar Year (Jan - Dec), 2019",49.8,73,78.8,81.7,31.9,34.5,98,55.6,98.3,907,53.2,17.7
+Madhya Pradesh,Gwalior,"Calendar Year (Jan - Dec), 2019",62.5,60.6,80.5,86.6,40.1,69.8,94.8,83.2,99.5,902,76,37.9
+Madhya Pradesh,Harda,"Calendar Year (Jan - Dec), 2019",62.6,78,90.8,93.8,38.8,57.6,88.4,68.8,98.8,962,71.4,30.8
+Madhya Pradesh,Indore,"Calendar Year (Jan - Dec), 2019",48.1,83.4,84.6,90.3,28.7,86.9,96.5,90,100,987,80.3,47.7
+Madhya Pradesh,Jabalpur,"Calendar Year (Jan - Dec), 2019",48.9,83,,,18,28.5,94.7,61.9,99.7,965,68.2,30.4
+Madhya Pradesh,Jhabua,"Calendar Year (Jan - Dec), 2019",58.8,76,88.9,92.2,49.3,17.5,92.9,57.6,98.9,1061,37.1,16
+Madhya Pradesh,Katni,"Calendar Year (Jan - Dec), 2019",58.7,72.4,86,77.9,49.5,29.5,91.8,53.5,97.9,979,67.2,32.5
+Madhya Pradesh,Khandwa (East Nimar),"Calendar Year (Jan - Dec), 2019",64.8,72.9,87.9,94,38.4,48.3,93.2,76.7,99.3,999,65.8,27.9
+Maharashtra,Beed,"Calendar Year (Jan - Dec), 2019",50.8,58.1,75.9,79.1,40.8,54.4,94,66.4,94.8,934,76.3,38.6
+Madhya Pradesh,Khargone (West Nimar),"Calendar Year (Jan - Dec), 2019",50.1,77.8,77.4,76.9,31.4,61.6,92.8,73.8,98.8,936,59.5,27.2
+Madhya Pradesh,Mandla,"Calendar Year (Jan - Dec), 2019",60.6,79.1,88.9,94.6,32.1,22.3,87.6,58.4,96.8,1052,66.5,30.5
+Madhya Pradesh,Mandsaur,"Calendar Year (Jan - Dec), 2019",56.7,72.6,75.1,85.2,30.9,45.6,99.4,65.4,99.9,974,64.8,24.1
+Madhya Pradesh,Morena,"Calendar Year (Jan - Dec), 2019",67.5,58.9,69.7,69.3,40,32.6,94.8,62.7,99.5,964,65.5,25.6
+Madhya Pradesh,Narmadapuram,"Calendar Year (Jan - Dec), 2019",51.9,28.6,73.5,90.3,34.8,47.3,91.8,68.5,97.2,951,67.6,35.5
+Madhya Pradesh,Narsimhapur,"Calendar Year (Jan - Dec), 2019",46.9,78.9,82.7,81.3,32,36.7,91.4,77,99,950,69.2,31.4
+Madhya Pradesh,Neemuch,"Calendar Year (Jan - Dec), 2019",50.3,73.4,88.7,87.9,33,52.4,97.5,68.9,99.6,982,67.3,27.9
+Madhya Pradesh,Panna,"Calendar Year (Jan - Dec), 2019",59,67.6,64.5,76.2,45.1,22.1,84,43.8,95.8,956,55.7,24
+Madhya Pradesh,Raisen,"Calendar Year (Jan - Dec), 2019",56.9,76.3,,,30.4,38.9,96,69.6,99.3,900,75.2,34.6
+Madhya Pradesh,Rajgarh,"Calendar Year (Jan - Dec), 2019",52.3,69.2,71.9,83.8,27.6,24.8,91.7,47.8,97.8,969,52.1,21.3
+Madhya Pradesh,Ratlam,"Calendar Year (Jan - Dec), 2019",59.5,72.6,93,95.5,29,53.1,95.2,69.4,99,991,62.4,23.8
+Madhya Pradesh,Rewa,"Calendar Year (Jan - Dec), 2019",61.7,70.7,70.3,77.7,37,21.4,80.4,46.1,96.5,1055,62.3,23.1
+Madhya Pradesh,Sagar,"Calendar Year (Jan - Dec), 2019",49.8,68.5,75.9,77,42.7,32.7,86.9,68.8,98.6,937,69.4,32.9
+Madhya Pradesh,Satna,"Calendar Year (Jan - Dec), 2019",57.3,71.6,76.3,79.5,49.4,35.2,85.5,55.4,97.8,1014,69.1,31.5
+Madhya Pradesh,Sehore,"Calendar Year (Jan - Dec), 2019",45.3,53.4,60.3,82.7,21.9,33.7,94.7,75.2,99.2,894,64.3,28.2
+Madhya Pradesh,Seoni,"Calendar Year (Jan - Dec), 2019",59.9,78,88.8,96.1,23.5,29,94.8,56.2,99.2,1089,71.6,33
+Madhya Pradesh,Shahdol,"Calendar Year (Jan - Dec), 2019",56.4,64.5,86.1,87.4,44,26.5,85.6,61.4,97.5,979,68.5,30.7
+Madhya Pradesh,Shajapur,"Calendar Year (Jan - Dec), 2019",45.8,78.2,90,89.2,27.8,37.7,98.1,74.5,99.9,957,58,19.6
+Madhya Pradesh,Sheopur,"Calendar Year (Jan - Dec), 2019",64.9,67.7,65.8,78.3,45.8,22.9,84.2,48,98,963,49.8,15.9
+Madhya Pradesh,Shivpuri,"Calendar Year (Jan - Dec), 2019",51.1,64.3,63.1,67.8,39.2,32.7,94.5,55.5,97.2,898,56.7,21.2
+Madhya Pradesh,Sidhi,"Calendar Year (Jan - Dec), 2019",55.7,71.7,78.2,77.5,39.1,20.9,83.8,44.7,96.4,1053,64.4,27.1
+Madhya Pradesh,Singrauli,"Calendar Year (Jan - Dec), 2019",54.1,58.1,76.9,78.3,37.3,31.7,69.9,52.6,92.7,915,60.7,29.9
+Madhya Pradesh,Tikamgarh,"Calendar Year (Jan - Dec), 2019",49.1,76.2,79,79.9,27.5,32.1,89.8,56.6,99.7,912,67.7,25.8
+Madhya Pradesh,Ujjain,"Calendar Year (Jan - Dec), 2019",54.5,75.4,93.7,96.4,34.7,60.7,97.1,72.8,99.3,957,64.3,29
+Madhya Pradesh,Umaria,"Calendar Year (Jan - Dec), 2019",51.5,71.2,90.6,91.9,45.3,26.9,92.2,53.7,98.2,1026,63,26.4
+Maharashtra,Ahmednagar,"Calendar Year (Jan - Dec), 2019",50.3,69.5,83.5,88.3,31.7,77.4,97.9,79.5,94.5,967,86.2,45.7
+Maharashtra,Akola,"Calendar Year (Jan - Dec), 2019",52.6,77,69.5,66.1,31.8,75.5,97.7,69.5,97.6,951,87.5,52.7
+Maharashtra,Amravati,"Calendar Year (Jan - Dec), 2019",53.4,79.2,92.5,92.5,29,71.7,91.3,75.7,99.1,994,87.8,55
+Maharashtra,Bhandara,"Calendar Year (Jan - Dec), 2019",65.3,77.5,87,91.9,31.3,71.4,100,81.8,98.8,1004,89.1,53.9
+Maharashtra,Buldhana,"Calendar Year (Jan - Dec), 2019",57.8,81.1,85.9,78.5,45,69.2,93.9,68.9,97.1,957,79.9,41.8
+Maharashtra,Chandrapur,"Calendar Year (Jan - Dec), 2019",55.5,80.1,95,87.6,37.3,85.1,99.6,77.3,98.9,974,87.8,57.5
+Maharashtra,Chhatrapati Sambhajinagar,"Calendar Year (Jan - Dec), 2019",52.4,48.1,56.7,81.7,34.2,78.4,94.8,69.1,97,978,83.1,48.4
+Maharashtra,Dharashiv,"Calendar Year (Jan - Dec), 2019",49.1,78.9,89.3,85.3,37.2,69.7,98.1,71.2,96.8,992,83.7,41.5
+Maharashtra,Dhule,"Calendar Year (Jan - Dec), 2019",61.2,51.9,56.6,69.1,37.6,65.1,77.2,58.9,96,999,68.8,40.8
+Maharashtra,Gadchiroli,"Calendar Year (Jan - Dec), 2019",66.2,76.5,97.9,95.6,35.7,60.5,97.3,62.4,95.8,1048,79.4,42.3
+Maharashtra,Gondia,"Calendar Year (Jan - Dec), 2019",60.4,78.3,88.2,90.4,36.9,68,99.1,74.3,98.2,994,87.5,54.1
+Maharashtra,Hingoli,"Calendar Year (Jan - Dec), 2019",51.3,73.1,76.9,79.4,37.4,53.1,94,69,98.1,962,76.5,33.2
+Maharashtra,Jalgaon,"Calendar Year (Jan - Dec), 2019",65.2,44,61.3,79.9,36.3,79.5,86.5,59.7,96.8,983,76.5,40.8
+Maharashtra,Jalna,"Calendar Year (Jan - Dec), 2019",58.2,49.7,54.3,68.9,38,56.4,92.8,63.6,95.7,948,71.8,34.3
+Maharashtra,Kolhapur,"Calendar Year (Jan - Dec), 2019",50.1,71.4,67.2,78,33.6,84.7,99.2,82,98.8,1025,90.7,53.8
+Maharashtra,Latur,"Calendar Year (Jan - Dec), 2019",50.7,78.2,79.2,77.9,43.2,78.5,94.7,72.5,97.2,979,83.3,40.7
+Maharashtra,Mumbai,"Calendar Year (Jan - Dec), 2019",45.9,74.3,0,0,26.6,98.3,99.5,58.6,99.6,939,94.3,71.1
+Maharashtra,Nagpur,"Calendar Year (Jan - Dec), 2019",53.6,84.1,89.4,87.4,27.6,96,100,88.9,99.5,971,94.6,67.6
+Maharashtra,Nanded,"Calendar Year (Jan - Dec), 2019",57.3,68.1,75.7,84.9,36,64.5,94.8,68,96.4,970,71.9,31.6
+Maharashtra,Nandurbar,"Calendar Year (Jan - Dec), 2019",64.2,62.6,72.4,77.9,45.8,40.3,76.3,54.1,96.2,961,57.7,29.9
+Maharashtra,Nashik,"Calendar Year (Jan - Dec), 2019",56.2,55,70.4,82.8,42.2,72.5,90.5,68.3,95.3,913,80,42.6
+Maharashtra,Palghar,"Calendar Year (Jan - Dec), 2019",56.9,71.8,94,90.8,33,75,94.2,75.1,97.7,963,77.6,48.3
+Maharashtra,Parbhani,"Calendar Year (Jan - Dec), 2019",58.8,42,52,75.4,37.6,54.8,85.6,60.1,96.8,966,73.4,28.8
+Maharashtra,Pune,"Calendar Year (Jan - Dec), 2019",51.9,57.8,58.1,79.2,30.7,89.5,98,79.6,99.4,918,89,61.2
+Maharashtra,Raigad,"Calendar Year (Jan - Dec), 2019",54.2,73.6,92.3,88.3,35.8,83.3,96.6,74.8,97.9,1003,79.2,45
+Maharashtra,Ratnagiri,"Calendar Year (Jan - Dec), 2019",43.4,62.3,77.2,95.2,31.7,58.1,97.8,85.6,99.2,1069,87.2,41.2
+Maharashtra,Sangli,"Calendar Year (Jan - Dec), 2019",47.5,67.1,75,83.3,35,87.3,98,84.7,98.2,1027,90.3,54.6
+Maharashtra,Satara,"Calendar Year (Jan - Dec), 2019",49.6,74.7,82.8,76.3,20.2,82.1,97.1,78.7,97.9,1049,87.2,48.3
+Maharashtra,Sindhudurg,"Calendar Year (Jan - Dec), 2019",41.2,58.7,76.3,76.3,30.8,66,100,87.9,99.4,1035,92.1,49.4
+Maharashtra,Solapur,"Calendar Year (Jan - Dec), 2019",54.5,75.7,83.6,86.3,36.3,73.1,96.2,67.8,97.1,962,76.4,36
+Maharashtra,Thane,"Calendar Year (Jan - Dec), 2019",58.8,61.6,74.9,86.8,40.8,90.4,93.6,74.7,99.3,982,90.5,55.9
+Maharashtra,Wardha,"Calendar Year (Jan - Dec), 2019",60,79.2,92.4,87.4,27.7,83.9,98.8,80.2,98.8,979,93,56.5
+Maharashtra,Washim,"Calendar Year (Jan - Dec), 2019",56.4,71.3,71.6,75.5,35.3,61.4,92.9,61.5,97.2,948,78,42
+Maharashtra,Yavatmal,"Calendar Year (Jan - Dec), 2019",58.4,78.3,74.7,77.6,36.6,71.8,96.3,66.4,97.2,986,80.8,38.9
+Manipur,Bishnupur,"Calendar Year (Jan - Dec), 2019",35.8,46.3,66.6,76.7,15.5,71.3,89.5,52.6,98.6,1094,88.4,48.7
+Manipur,Chandel,"Calendar Year (Jan - Dec), 2019",27.3,56.6,55.5,69.9,34,52,55.5,85.2,99.9,1077,80.2,43.3
+Manipur,Churachandpur,"Calendar Year (Jan - Dec), 2019",32,61.8,64.9,78.9,25.1,62.3,72.9,81.2,94,1144,84.2,36.6
+Manipur,Imphal East,"Calendar Year (Jan - Dec), 2019",35.9,50.1,76.2,72.5,18.4,79,91.7,59.5,98.6,1059,90,49.9
+Manipur,Imphal West,"Calendar Year (Jan - Dec), 2019",26.8,69.9,74.1,83.6,15.6,88.6,95.7,58.7,99.4,1041,92.5,61.9
+Manipur,Senapati,"Calendar Year (Jan - Dec), 2019",27.4,65.2,65,79.9,27.3,50,45.8,84.4,98.8,1053,81.9,39.6
+Manipur,Tamenglong,"Calendar Year (Jan - Dec), 2019",27.3,65.2,67.4,78.1,27.1,30.5,57.7,77.9,93.6,1032,76.8,33.1
+Manipur,Thoubal,"Calendar Year (Jan - Dec), 2019",24.2,72.2,74.2,79.9,31.5,74.7,87.8,61.3,98.6,1095,85.4,40.7
+Manipur,Ukhrul,"Calendar Year (Jan - Dec), 2019",21.9,56.9,39.4,45,27.1,22.9,44.6,81.4,95,969,86.9,49.7
+Meghalaya,East Garo Hills,"Calendar Year (Jan - Dec), 2019",50.9,37,72.4,94.5,39.7,29.1,73.8,83.9,97.4,1026,86.7,40.5
+Meghalaya,East Jaintia Hills,"Calendar Year (Jan - Dec), 2019",43.9,33.6,74.4,82.4,49.8,26.5,48.4,83.6,85.1,1066,76,23
+Meghalaya,East Khasi Hills,"Calendar Year (Jan - Dec), 2019",48.2,12.1,49.1,69.4,44.6,47.4,63.4,80.9,96.6,1049,93.7,43.5
+Meghalaya,North Garo Hills,"Calendar Year (Jan - Dec), 2019",58.4,19.2,47.5,0,35.6,24.4,61.5,84.9,97.5,1009,86.1,38.4
+Meghalaya,Ri Bhoi,"Calendar Year (Jan - Dec), 2019",62.4,33.1,74.8,86.7,42.5,21,56.9,85.3,92.1,998,89.5,23.1
+Meghalaya,South Garo Hills,"Calendar Year (Jan - Dec), 2019",56.2,37.6,86.8,89.1,29.8,22.3,88.3,88.4,98.6,984,88.6,38.4
+Meghalaya,South West Garo Hills,"Calendar Year (Jan - Dec), 2019",62.5,36.7,85.4,90.1,32.2,33.9,83.7,71.4,95.5,995,82.6,33
+Meghalaya,South West Khasi Hills,"Calendar Year (Jan - Dec), 2019",58.9,26.5,78.8,86.3,51.4,11.6,41.7,89.6,87.9,1025,85.9,23.4
+Meghalaya,West Garo Hills,"Calendar Year (Jan - Dec), 2019",55.3,44.1,77.1,78.6,39.5,47.6,89.6,86.3,94.7,1025,89,45.1
+Meghalaya,West Jaintia Hills,"Calendar Year (Jan - Dec), 2019",55.9,19.3,59.7,84.1,48.7,20.7,42.2,75.1,75.4,1143,80,24.7
+Meghalaya,West Khasi Hills,"Calendar Year (Jan - Dec), 2019",51.8,26.3,62.5,77.4,59,8.6,41.7,87.8,85,1038,87.4,16.4
+Mizoram,Aizawl,"Calendar Year (Jan - Dec), 2019",31.7,21.6,66.4,76.3,25.3,95.4,97.4,96.1,99.7,1052,98.9,60.7
+Mizoram,Champhai,"Calendar Year (Jan - Dec), 2019",25.7,50,85.3,87,27.2,79.4,96.7,98.3,100,944,97.7,47.8
+Mizoram,Kolasib,"Calendar Year (Jan - Dec), 2019",37.7,38.1,80.4,91.4,30.4,87.5,91.4,96.8,99.1,1002,96.9,41.7
+Mizoram,Lawngtlai,"Calendar Year (Jan - Dec), 2019",48.5,29.7,70.2,91.7,32.7,56.3,53.7,90.3,89,1051,76,32.2
+Mizoram,Lunglei,"Calendar Year (Jan - Dec), 2019",34.9,33,73.8,84.1,26.5,79.9,82.7,95.6,98,1004,91.6,46.3
+Mizoram,Mamit,"Calendar Year (Jan - Dec), 2019",34.9,41.6,85.9,85.7,26.4,73.3,75,92.7,97.9,991,89.6,40
+Mizoram,Serchhip,"Calendar Year (Jan - Dec), 2019",32.1,40,84.7,93,31.8,81.8,96.2,98.2,99.3,981,99.7,43.1
+Mizoram,Siaha,"Calendar Year (Jan - Dec), 2019",44.2,22.6,60.3,84.8,43.8,83.7,73.8,91.5,99.7,994,95.1,50.2
+Nagaland,Dimapur,"Calendar Year (Jan - Dec), 2019",34.7,46.9,55.9,63.8,28.3,84.2,73.7,81.1,99.8,1010,86.6,52.5
+Nagaland,Kiphire,"Calendar Year (Jan - Dec), 2019",31.4,42.5,42.8,73.5,36.9,16.4,34.8,83.1,97.9,954,73.7,22
+Nagaland,Kohima,"Calendar Year (Jan - Dec), 2019",14.9,60.7,82.8,90.2,28.3,61.7,66.9,87.4,99.5,954,95.2,70.9
+Nagaland,Longleng,"Calendar Year (Jan - Dec), 2019",34.6,66.5,53,64.8,34.1,11.8,38.7,86.6,99.1,969,82,23.8
+Nagaland,Mokokchung,"Calendar Year (Jan - Dec), 2019",25,66.7,92,95.6,31.4,46.2,51.5,96.7,97.7,1041,94,55.8
+Nagaland,Mon,"Calendar Year (Jan - Dec), 2019",30.2,68.7,62.4,69.4,35.5,13,21.4,86.4,96.4,1006,78.2,24.3
+Nagaland,Peren,"Calendar Year (Jan - Dec), 2019",29.7,58.6,63.3,76.4,34.9,31.4,43.5,89.4,98.2,1079,77.6,35.5
+Nagaland,Phek,"Calendar Year (Jan - Dec), 2019",30,56.3,54.6,71.2,28,24.2,32.2,90.1,99.4,1021,85.8,39.4
+Nagaland,Tuensang,"Calendar Year (Jan - Dec), 2019",28.8,52.6,39.9,58.8,37.1,19.7,34.8,92,96.6,946,77.8,27
+Nagaland,Wokha,"Calendar Year (Jan - Dec), 2019",30.9,64.6,42.8,57.1,26.3,41.2,43.6,88.5,99.7,1105,91.6,45.3
+Nagaland,Zunheboto,"Calendar Year (Jan - Dec), 2019",31.1,68.8,60.7,75.1,44,18.6,35,88.9,99.4,1132,87.1,40.2
+Odisha,Anugul,"Calendar Year (Jan - Dec), 2019",75.8,85.8,87,86.5,28.1,23.8,85.7,66.4,96.7,1027,72.4,33.7
+Odisha,Balangir,"Calendar Year (Jan - Dec), 2019",59.4,77.8,95.8,97.9,32.7,32.6,97.9,66.3,97.8,1056,68.1,31.4
+Odisha,Baleshwar,"Calendar Year (Jan - Dec), 2019",61.8,68.3,94.1,85,24.4,28.4,97.6,70.9,97.1,1073,73.8,38.3
+Odisha,Bargarh,"Calendar Year (Jan - Dec), 2019",62.6,75.4,95.9,97.9,38.9,31.9,99.6,61.9,98.4,957,71.6,37.4
+Odisha,Bhadrak,"Calendar Year (Jan - Dec), 2019",64,72,83.7,88.7,32.3,22.9,96.1,62,97.8,1150,80.1,37
+Odisha,Boudh,"Calendar Year (Jan - Dec), 2019",54.1,70.7,91.8,92.8,37,30.9,93.4,52.9,96.3,1009,68.8,29.9
+Odisha,Cuttack,"Calendar Year (Jan - Dec), 2019",64.5,84.4,90.4,97,20.4,45.1,98.9,60.2,98.2,1019,80.1,40.9
+Odisha,Deogarh,"Calendar Year (Jan - Dec), 2019",72.2,74.1,100,97.1,28.4,18.4,91.2,69.9,95.3,1053,66.7,31.3
+Odisha,Dhenkanal,"Calendar Year (Jan - Dec), 2019",65.9,75.9,88.6,86,33.3,28.8,94.8,58.2,96.3,1047,74.1,33.3
+Odisha,Gajapati,"Calendar Year (Jan - Dec), 2019",66.1,76.2,92.6,97.7,43.4,28.9,76.4,58.3,94.1,1087,47.6,22.5
+Odisha,Ganjam,"Calendar Year (Jan - Dec), 2019",56.7,59.2,88.5,92.3,23.9,63.7,93,72.9,99.3,1165,69.5,32.6
+Odisha,Jagatsinghapur,"Calendar Year (Jan - Dec), 2019",59.8,71.9,91.3,92.9,13.2,30.5,98.3,60.1,98.2,1095,84.8,46.6
+Odisha,Jajapur,"Calendar Year (Jan - Dec), 2019",63.4,76.2,79.5,70.5,25.5,28.4,93.8,47.4,97,1018,75.8,38
+Odisha,Jharsuguda,"Calendar Year (Jan - Dec), 2019",67.8,81.4,97.6,97.6,27.1,41.8,98.6,70,98.1,956,79.1,40.9
+Odisha,Kalahandi,"Calendar Year (Jan - Dec), 2019",64.2,75.9,91.3,91.3,33,28.9,92.8,64.4,97.2,1051,61.8,26.5
+Odisha,Kandhamal,"Calendar Year (Jan - Dec), 2019",48.9,76.7,96.8,94,34.2,24.1,93.9,52.4,96.6,1052,68.5,28.1
+Odisha,Kendrapara,"Calendar Year (Jan - Dec), 2019",58.8,64.7,82.8,93.5,28.6,27.9,96.7,57.3,99.5,1127,84.4,42.5
+Odisha,Kendujhar,"Calendar Year (Jan - Dec), 2019",69.2,77.6,86,81.4,36.2,27.9,80.4,47.6,91.1,1115,64.6,29.5
+Odisha,Khordha,"Calendar Year (Jan - Dec), 2019",68.1,74.7,87.9,87.6,17.1,63.3,97.8,73.2,99.5,1024,84.9,43.2
+Odisha,Koraput,"Calendar Year (Jan - Dec), 2019",58.2,65.4,98,98,43.1,31.5,82.1,39.4,96.2,1079,40.6,17.6
+Odisha,Malkangiri,"Calendar Year (Jan - Dec), 2019",71.9,74.1,94.8,97.2,44.3,20.9,90.7,41.4,95.8,1137,39,14
+Odisha,Mayurbhanj,"Calendar Year (Jan - Dec), 2019",72.2,76.3,84.4,85.4,36.7,16.1,91.7,54.4,90.3,1056,58.6,25.1
+Odisha,Nabarangpur,"Calendar Year (Jan - Dec), 2019",69.3,77.1,94.8,96.1,44.1,19,87.6,44.1,97.4,1060,38.5,15.5
+Odisha,Nayagarh,"Calendar Year (Jan - Dec), 2019",62.5,78.2,96.1,96.1,20,42.3,98.3,67.1,98.3,1083,80.4,27.1
+Odisha,Nuapada,"Calendar Year (Jan - Dec), 2019",64,71.4,97,95.9,43.1,23.2,89.8,58.4,94.6,1060,53.5,27.3
+Odisha,Puri,"Calendar Year (Jan - Dec), 2019",63.3,74.4,95.8,96.5,13.8,34.4,97.7,67.3,99.5,1045,86.4,38.1
+Odisha,Rayagada,"Calendar Year (Jan - Dec), 2019",69.1,72.7,92.7,92.7,43.6,30.2,68.9,50.5,96.6,1110,42,19.1
+Odisha,Sambalpur,"Calendar Year (Jan - Dec), 2019",66.7,77.1,98,97.9,40.7,42.6,99.5,62.4,98.8,1067,71.1,36.5
+Odisha,Sonepur,"Calendar Year (Jan - Dec), 2019",58.8,77.4,98,98,29.6,41.6,96.1,66.7,98.7,974,76.1,37.8
+Odisha,Sundargarh,"Calendar Year (Jan - Dec), 2019",69.8,79.7,82,81.5,32.9,40.2,91.3,65.5,97.1,1030,70.8,35.6
+Puducherry,Karaikal,"Calendar Year (Jan - Dec), 2019",54.4,59.7,88.9,96.6,25.5,81.2,99.6,84.3,99.6,1132,88.8,59
+Puducherry,Mahe,"Calendar Year (Jan - Dec), 2019",38.4,73.6,95.3,95.3,48.2,90.9,100,99.8,99.7,1164,99.6,88.2
+Puducherry,Pondicherry,"Calendar Year (Jan - Dec), 2019",56.8,66.5,80.1,87.6,17,95,99.5,84.6,100,1106,90.1,67.2
+Puducherry,Yanam,"Calendar Year (Jan - Dec), 2019",43.1,79.6,79.7,92.4,25,98.6,100,84.1,99.8,1089,82.2,51.6
+Punjab,Amritsar,"Calendar Year (Jan - Dec), 2019",52.1,68.9,65.8,74.3,19.4,82.9,95.9,86,99.9,921,80.2,56.7
+Punjab,Barnala,"Calendar Year (Jan - Dec), 2019",55.2,69.3,68.5,86.7,33.8,73.5,96.7,90.7,99.8,883,77.9,53.1
+Punjab,Bathinda,"Calendar Year (Jan - Dec), 2019",59.7,45.3,66.5,74.5,23,78.1,93.1,88.4,100,861,69.2,41.1
+Punjab,Faridkot,"Calendar Year (Jan - Dec), 2019",63.2,56.3,70.8,81.5,28.1,79.1,94.3,87.5,99,924,72.6,46.5
+Punjab,Fatehgarh Sahib,"Calendar Year (Jan - Dec), 2019",65.1,71.6,83.6,95.9,30,74.3,96.6,87.6,99.6,899,86.9,62.3
+Punjab,Fazilka,"Calendar Year (Jan - Dec), 2019",66.9,68,60.5,72.6,35.9,57.1,91.7,81.8,99.8,944,69.4,41.3
+Punjab,Ferozepur,"Calendar Year (Jan - Dec), 2019",61.5,77.3,74.5,86.5,30,68.6,95.5,84.8,99.6,958,75.4,47.5
+Punjab,Gurdaspur,"Calendar Year (Jan - Dec), 2019",55.2,58.5,80,90.2,25.1,81.3,92.4,85.4,99.1,952,82,64.6
+Punjab,Hoshiarpur,"Calendar Year (Jan - Dec), 2019",54.1,65.6,92.9,97.6,19.3,77.3,98.3,89.7,99.9,999,91.3,73.2
+Punjab,Jalandhar,"Calendar Year (Jan - Dec), 2019",57,66.6,91.3,95.6,24.8,82.3,92.3,88.2,99.6,997,86.8,64.4
+Punjab,Kapurthala,"Calendar Year (Jan - Dec), 2019",54.5,61,65.7,83.4,24.6,84.2,95,87.7,99.8,998,84.1,60.3
+Punjab,Ludhiana,"Calendar Year (Jan - Dec), 2019",64.3,69.8,73.2,79.8,22.1,83.2,90.1,84.6,99.7,918,82.4,61.6
+Punjab,Mansa,"Calendar Year (Jan - Dec), 2019",60.4,67.6,79.1,88.8,36.6,52.3,88.8,85.4,99.5,924,67.4,37.5
+Punjab,Moga,"Calendar Year (Jan - Dec), 2019",54.4,75,80.6,83.7,22,71.5,93,87.8,99.9,906,74.7,45.2
+Punjab,Pathankot,"Calendar Year (Jan - Dec), 2019",55,62.6,77.4,74.5,22.1,79.8,94.8,79.2,99.9,952,88.7,74
+Punjab,Patiala,"Calendar Year (Jan - Dec), 2019",65.3,71.7,74.7,93.1,20.3,80.4,97.3,88.1,99.7,922,76.6,56
+Punjab,Rupnagar,"Calendar Year (Jan - Dec), 2019",64.5,71.8,76.5,82,15.1,63.9,97.8,84,99.8,991,86.6,64
+Punjab,S.A.S Nagar,"Calendar Year (Jan - Dec), 2019",59.5,76.5,71.1,78.6,26.2,88.9,97.4,87.6,99.6,876,83.5,62.5
+Punjab,Sangrur,"Calendar Year (Jan - Dec), 2019",52.6,57,89.6,92.6,23.4,69.8,94.7,92.4,99.6,937,78.3,54.4
+Punjab,Shahid Bhagat Singh Nagar,"Calendar Year (Jan - Dec), 2019",49.8,66.1,100,97.4,17.9,76.4,99.3,91.3,100,1004,88.1,65.4
+Punjab,Sri Muktsar Sahib,"Calendar Year (Jan - Dec), 2019",61,72,57.6,71.4,35,72.9,96.4,82.9,99.5,942,71.1,39.8
+Punjab,Tarn Taran,"Calendar Year (Jan - Dec), 2019",61.7,73.7,81.8,87.6,23.8,66.2,96,82,99.7,978,66,40.4
+Rajasthan,Ajmer,"Calendar Year (Jan - Dec), 2019",52.7,60.6,78.9,92.3,22.3,52.9,95.1,77.5,99.9,993,68.4,40.2
+Rajasthan,Alwar,"Calendar Year (Jan - Dec), 2019",53.2,54.6,59.4,72.1,33.9,34.9,91.3,66,97.8,991,63.2,35.1
+Rajasthan,Banswara,"Calendar Year (Jan - Dec), 2019",52.8,70.4,83,88.3,44.6,21.1,97.7,40.8,93.1,1056,53.1,28.5
+Rajasthan,Baran,"Calendar Year (Jan - Dec), 2019",60.1,78.9,89.3,93.4,46,39.6,97.3,59,98.3,1019,57.9,24.4
+Rajasthan,Barmer,"Calendar Year (Jan - Dec), 2019",49.4,77.9,92.9,92.8,39.1,26.8,93.3,83.6,95.5,986,66.3,25.6
+Rajasthan,Bharatpur,"Calendar Year (Jan - Dec), 2019",60.8,61.2,64.1,67.2,40.3,24.3,92.1,62.7,98.3,970,61.1,30.3
+Rajasthan,Bhilwara,"Calendar Year (Jan - Dec), 2019",50.4,71.1,83.2,87.8,22.6,26.5,95,62.3,99.3,1069,56.4,25.3
+Rajasthan,Bikaner,"Calendar Year (Jan - Dec), 2019",58.9,79.5,75.6,81.3,22.8,51.4,90,79.8,96.1,968,62.5,30.2
+Rajasthan,Bundi,"Calendar Year (Jan - Dec), 2019",55.9,75.8,75.7,81.4,30,26.5,95.3,56.3,98.4,1002,56.9,27.4
+Rajasthan,Chittorgarh,"Calendar Year (Jan - Dec), 2019",45.1,66.9,87.8,89.9,31.4,31.3,96.8,63.8,99,1037,56.1,24.8
+Rajasthan,Churu,"Calendar Year (Jan - Dec), 2019",52.9,76.7,74.3,82.4,27.1,40.6,87.8,80.2,96.6,1037,63.9,33.4
+Rajasthan,Dausa,"Calendar Year (Jan - Dec), 2019",60.3,80,92.1,87.4,37.7,22.6,98.2,59.4,99,986,60.3,34.6
+Rajasthan,Dholpur,"Calendar Year (Jan - Dec), 2019",68.5,67.9,85.9,79.8,45.7,36.5,94.4,57.5,97.5,1002,57.7,27
+Rajasthan,Dungarpur,"Calendar Year (Jan - Dec), 2019",72.6,70.7,83.3,89.2,31.4,27.3,94.1,59.9,99.4,1029,66,32.5
+Rajasthan,Ganganagar,"Calendar Year (Jan - Dec), 2019",59,81.1,89.7,90.4,24.5,45.5,97.7,83.4,96.9,957,69.3,39.3
+Rajasthan,Hanumangarh,"Calendar Year (Jan - Dec), 2019",60.3,80.2,83.3,86.6,24.2,36.2,94.9,83.8,99,1015,68.2,38.4
+Rajasthan,Jaipur,"Calendar Year (Jan - Dec), 2019",54.1,76.9,89.3,96.8,25,60.1,97.3,79.6,99.5,944,72.4,47.9
+Rajasthan,Jaisalmer,"Calendar Year (Jan - Dec), 2019",44.4,83,72,74.7,25.5,30.9,90,75.7,97.3,987,62.2,18.7
+Rajasthan,Jalore,"Calendar Year (Jan - Dec), 2019",59.9,54.2,78,82.4,44.3,36.5,95.5,77.4,98.4,982,60.4,22.2
+Rajasthan,Jhalawar,"Calendar Year (Jan - Dec), 2019",51.5,74.4,81.5,92,34,33.8,98.3,62.1,99.3,977,54.3,22.4
+Rajasthan,Jhunjhunu,"Calendar Year (Jan - Dec), 2019",55.4,77.8,88.7,88,20.9,55.5,97.1,79,99,1063,74.4,45.2
+Rajasthan,Jodhpur,"Calendar Year (Jan - Dec), 2019",43.4,78.9,81.2,77,32.6,56.1,90,75.4,98.4,1042,67.4,34.6
+Rajasthan,Karauli,"Calendar Year (Jan - Dec), 2019",61.5,72.7,88.9,93.1,37.6,24.2,97.6,49.9,98.7,996,53.3,22.7
+Rajasthan,Kota,"Calendar Year (Jan - Dec), 2019",51.8,77.2,84.4,85.2,29.5,72.3,97.9,79,99.4,981,76.5,44
+Rajasthan,Nagaur,"Calendar Year (Jan - Dec), 2019",45.3,83.4,80.6,93.4,31.5,45.7,97,79,99,1055,67.2,32.3
+Rajasthan,Pali,"Calendar Year (Jan - Dec), 2019",58.8,57.8,90.2,89.2,35.9,53.1,98.8,81.8,99.7,1085,74.4,36.6
+Rajasthan,Pratapgarh,"Calendar Year (Jan - Dec), 2019",53.1,72,75.8,88.7,29,23,96.4,46.3,97,1038,53.5,23.5
+Rajasthan,Rajsamand,"Calendar Year (Jan - Dec), 2019",58.4,56.6,71.7,76.6,30.3,37.1,95.1,72.1,98.9,1065,67.7,33.9
+Rajasthan,Sawai Madhopur,"Calendar Year (Jan - Dec), 2019",57.5,58.7,54.9,56.1,26.9,29.1,97.4,71.2,95.5,999,55.7,28.3
+Rajasthan,Sikar,"Calendar Year (Jan - Dec), 2019",44,75.2,70,71.3,23.1,58.4,95.8,77.9,99.2,1061,71.8,41.4
+Rajasthan,Sirohi,"Calendar Year (Jan - Dec), 2019",64,67.9,86.4,95.6,30.7,46,95.7,54.1,93.9,1060,60.6,25.7
+Rajasthan,Tonk,"Calendar Year (Jan - Dec), 2019",52.8,69.1,75.3,80.3,33.1,24.1,97.4,66.2,97.8,987,55.2,27.3
+Rajasthan,Udaipur,"Calendar Year (Jan - Dec), 2019",60.5,75.5,86.8,89.5,34,34.3,96.1,60.3,98.1,998,62,30.1
+Sikkim,Gangtok,"Calendar Year (Jan - Dec), 2019",43.3,54.3,0,0,17.8,87.6,91.8,85,99.4,1008,90.1,53.2
+Sikkim,Gyalshing,"Calendar Year (Jan - Dec), 2019",42.7,88.2,96.9,93.2,25.2,69.8,99.3,88.9,98.8,959,85.7,43.9
+Sikkim,Mangan,"Calendar Year (Jan - Dec), 2019",36.7,75.7,90.8,90.6,31.8,65.9,97.3,83.8,98.9,997,81.4,37.7
+Sikkim,Namchi,"Calendar Year (Jan - Dec), 2019",39.8,85,86.4,0,24.8,66.5,97.4,91.7,99.6,973,90.5,45.7
+Tamil Nadu,Ariyalur,"Calendar Year (Jan - Dec), 2019",62.4,61.4,90.8,90.8,25.3,46.7,100,54.6,98.2,1143,74.6,50.7
+Tamil Nadu,Chennai,"Calendar Year (Jan - Dec), 2019",50.3,65.8,96.6,100,20.4,97.7,100,90.4,99.9,1037,94.8,76.7
+Tamil Nadu,Coimbatore,"Calendar Year (Jan - Dec), 2019",48.9,66.5,94.5,94.5,23,95.5,100,78.5,99.4,1061,89.3,62.8
+Tamil Nadu,Cuddalore,"Calendar Year (Jan - Dec), 2019",58.6,65.3,79,77.3,20.2,75.6,99.2,61.3,99.2,1062,78.3,50.1
+Tamil Nadu,Dharmapuri,"Calendar Year (Jan - Dec), 2019",42.5,70,90.6,96.1,28.7,82.5,99.6,72.4,99.4,1192,79,54.4
+Tamil Nadu,Dindigul,"Calendar Year (Jan - Dec), 2019",42.6,74.2,92.6,96.4,27.1,76.3,97,61,98.8,1066,78.2,50.1
+Tamil Nadu,Erode,"Calendar Year (Jan - Dec), 2019",55.4,70.6,95.9,97.2,19.4,95.9,100,67.6,99.6,1112,82.4,57.8
+Tamil Nadu,Kanchipuram,"Calendar Year (Jan - Dec), 2019",57,69.3,69.1,81.5,20.6,88.1,100,75.9,99.4,1002,82.6,56.8
+Tamil Nadu,Kanniyakumari,"Calendar Year (Jan - Dec), 2019",45.6,70.3,96,96,17.3,74.4,100,96.2,99.8,1121,97.7,77.1
+Tamil Nadu,Karur,"Calendar Year (Jan - Dec), 2019",65,65.8,82.5,84,33.6,72.5,100,63.6,98.7,1154,78.2,51.2
+Tamil Nadu,Krishnagiri,"Calendar Year (Jan - Dec), 2019",44,70,87.3,90.3,29,86,99.6,75.9,99.2,1053,78.6,53.9
+Tamil Nadu,Madurai,"Calendar Year (Jan - Dec), 2019",48,69.7,88.8,92.9,32.4,91.2,100,80.1,98.9,1079,83.9,58.6
+Tamil Nadu,Nagapattinam,"Calendar Year (Jan - Dec), 2019",62.6,65.9,93.8,94.6,32.3,59,99.7,69.6,99,1148,87.8,53.7
+Tamil Nadu,Namakkal,"Calendar Year (Jan - Dec), 2019",51.9,65.2,83.9,84.4,25.2,89.7,100,75.2,99.2,1142,87.7,55.7
+Tamil Nadu,Perambalur,"Calendar Year (Jan - Dec), 2019",66.1,63.1,92.5,94,29.1,75.1,100,57.4,99.1,1210,81.1,49
+Tamil Nadu,Pudukkottai,"Calendar Year (Jan - Dec), 2019",62.5,68,83.3,75.9,32.2,42,100,55.2,98.9,1095,81.1,52.2
+Tamil Nadu,Ramanathapuram,"Calendar Year (Jan - Dec), 2019",53.6,72.2,90.4,91.1,26.4,82.7,99.6,78.6,99.3,1147,84.1,53.7
+Tamil Nadu,Salem,"Calendar Year (Jan - Dec), 2019",46.3,69,77,81.8,23.6,84.5,100,64.5,99.5,1057,81.6,51.3
+Tamil Nadu,Sivaganga,"Calendar Year (Jan - Dec), 2019",51.5,67.3,89.4,81.5,27.6,75.2,100,74.4,99.4,1223,85.3,59.9
+Tamil Nadu,Thanjavur,"Calendar Year (Jan - Dec), 2019",59,64.8,78.5,66.7,19.6,69.4,100,79.6,98.8,1112,83.8,54.3
+Tamil Nadu,The Nilgiris,"Calendar Year (Jan - Dec), 2019",44.2,77.9,90.1,98,26.7,81.5,100,83.6,98.6,1093,89.1,63.4
+Tamil Nadu,Theni,"Calendar Year (Jan - Dec), 2019",41.2,70.6,95.2,95.2,20.2,89.9,100,74.4,99.4,1168,85.7,56.9
+Tamil Nadu,Thiruvallur,"Calendar Year (Jan - Dec), 2019",56.8,67.9,88.6,88.6,18.1,93.4,100,75.6,99.8,979,83.6,57.2
+Tamil Nadu,Thiruvarur,"Calendar Year (Jan - Dec), 2019",58.2,70.2,97.1,97.1,19.8,58.9,100,71,98.6,1131,89.3,57.5
+Tamil Nadu,Tiruchirappalli,"Calendar Year (Jan - Dec), 2019",62.4,68.1,97.1,89.4,27.6,71.2,98.6,67.1,99,1123,83.6,57.1
+Tamil Nadu,Tirunelveli,"Calendar Year (Jan - Dec), 2019",51,69.8,93.3,95.5,29.4,87.9,100,79.8,99.5,1109,85.6,54.2
+Tamil Nadu,Tiruppur,"Calendar Year (Jan - Dec), 2019",55.2,69.3,,,21.5,95.4,100,75.9,99.5,1114,87.1,55.1
+Tamil Nadu,Tiruvannamalai,"Calendar Year (Jan - Dec), 2019",56.6,71.9,97.1,92.6,30.6,70.7,99.1,61.7,99,1109,79.8,50.2
+Tamil Nadu,Tuticorin,"Calendar Year (Jan - Dec), 2019",55.9,67.6,100,100,20.3,90.7,100,79.4,100,1111,88.5,59.5
+Tamil Nadu,Vellore,"Calendar Year (Jan - Dec), 2019",50.6,65.2,92.7,97.2,29.8,85.3,99.5,76.2,99.3,1070,81.6,52.5
+Tamil Nadu,Villupuram,"Calendar Year (Jan - Dec), 2019",62.5,71.6,88.5,81.6,23.9,68.6,99.1,53.8,99.7,1120,75.4,45.7
+Tamil Nadu,Virudhunagar,"Calendar Year (Jan - Dec), 2019",56.9,68.1,76.7,77.7,29.2,90.5,97.8,59.8,99.5,1109,84.1,53.5
+Telangana,Adilabad,"Calendar Year (Jan - Dec), 2019",61.1,54.3,69.3,73.7,45.7,81.6,94.1,50.8,99.2,992,64.8,41
+Telangana,Bhadradri Kothagudem,"Calendar Year (Jan - Dec), 2019",68.7,75,80.4,87,28.4,89.2,97.4,75.3,99.4,1082,68.7,41.8
+Telangana,Hanumakonda,"Calendar Year (Jan - Dec), 2019",57.9,67.7,70.1,86.8,29.5,94.6,99.7,81.2,99.6,1087,76.9,57.2
+Telangana,Hyderabad,"Calendar Year (Jan - Dec), 2019",52.7,71.8,73.8,91.6,30.4,99.5,98.3,84.4,99.9,959,83.6,63.2
+Telangana,Jagitial,"Calendar Year (Jan - Dec), 2019",56.3,57.4,77.7,94,29.9,94.7,94.4,76.5,99.3,1219,62.4,43.5
+Telangana,Jangoan,"Calendar Year (Jan - Dec), 2019",57.5,71,84.2,91.2,33.4,91.1,99.6,84.3,99.3,1066,65.5,44
+Telangana,Jayashankar Bhupalapally,"Calendar Year (Jan - Dec), 2019",65.9,64.8,87.9,97.2,32.5,90.3,99.5,65.6,99.3,1079,58.9,36.3
+Telangana,Jogulamba Gadwal,"Calendar Year (Jan - Dec), 2019",64.6,75.5,86.9,92.3,49.7,86.1,94.2,73.7,99.8,1037,45,27.4
+Telangana,Kamareddy,"Calendar Year (Jan - Dec), 2019",58.9,56.8,75.5,84.1,33.4,82.3,97.1,68.2,99.5,1104,58.6,35.6
+Telangana,Karimnagar,"Calendar Year (Jan - Dec), 2019",61.1,56.8,73.4,74.5,30.3,94.9,98.4,78.8,99.7,1065,70.3,50.8
+Telangana,Khammam,"Calendar Year (Jan - Dec), 2019",62.4,78.7,86.6,94.3,22.2,97.1,97.9,84.5,99.7,1061,66.3,40.9
+Telangana,Kumuram Bheem Asifabad,"Calendar Year (Jan - Dec), 2019",67.3,49.4,76.2,93.5,38.1,85.8,82,54,97.8,1024,51.7,28.7
+Telangana,Mahabubabad,"Calendar Year (Jan - Dec), 2019",62.8,75.4,76.1,96.8,33,86.6,97.7,68.6,99.6,1067,58,34.7
+Telangana,Mahabubnagar,"Calendar Year (Jan - Dec), 2019",54.7,72,89.4,98.1,42.6,85.9,98.1,73.7,99.4,1035,59.6,40.4
+Telangana,Mancherial,"Calendar Year (Jan - Dec), 2019",56.7,55.3,76,87.4,25.9,93.1,90.1,78.1,99.6,1065,69.5,48.8
+Telangana,Medak,"Calendar Year (Jan - Dec), 2019",54.4,57.4,69.3,91.1,36.4,80.1,98.9,78.2,99.4,1051,57.7,39.3
+Telangana,Medchal Malkajgiri,"Calendar Year (Jan - Dec), 2019",56.8,76.4,76.1,87.6,33.4,99,98.3,86.2,100,996,79.5,59.3
+Telangana,Mulugu,"Calendar Year (Jan - Dec), 2019",65.9,64.8,87.9,97.2,32.5,90.3,99.5,65.6,99.3,1079,58.9,36.3
+Telangana,Nagarkurnool,"Calendar Year (Jan - Dec), 2019",54,77.3,81.1,98.3,35.1,87.3,98,73.2,99.9,1066,57.1,36
+Telangana,Nalgonda,"Calendar Year (Jan - Dec), 2019",54.3,78.5,78.3,79.9,31.7,94.6,98.3,76.4,99.9,1017,62.6,40.9
+Telangana,Nirmal,"Calendar Year (Jan - Dec), 2019",57.7,59.3,75.3,77.2,31.7,88.8,96.7,63.6,99.5,1171,58.6,40.9
+Telangana,Nizamabad,"Calendar Year (Jan - Dec), 2019",57,60.3,86.1,81.5,30.5,92.4,97.3,72.5,99.9,1132,63.1,42.4
+Telangana,Peddapalli,"Calendar Year (Jan - Dec), 2019",64.6,66.1,73.1,79.4,27.5,96.6,96.5,77.8,99.5,1028,73.7,46.6
+Telangana,Rajanna Sircilla,"Calendar Year (Jan - Dec), 2019",56,60.7,84.1,85.1,22.4,96.6,97.6,77.4,99.8,1167,64.7,46.4
+Telangana,Ranga Reddy,"Calendar Year (Jan - Dec), 2019",53.2,72.6,85.8,91.9,37.8,97,97.2,81.1,99.7,1022,72.1,51.4
+Telangana,Sangareddy,"Calendar Year (Jan - Dec), 2019",48.3,62.3,78.5,76.3,32.9,81.1,93,68,99.6,1053,63.6,41.5
+Telangana,Siddipet,"Calendar Year (Jan - Dec), 2019",56.7,59.8,63.1,81.5,28.1,93.2,99.7,84.1,99.5,1062,71,51.3
+Telangana,Suryapet,"Calendar Year (Jan - Dec), 2019",57.5,78.2,70.4,79.3,29.1,94.5,95.9,77.9,99.4,1032,63.5,42.5
+Telangana,Vikarabad,"Calendar Year (Jan - Dec), 2019",61,69.8,86.2,88.7,32.1,76,95,66.7,99.1,998,59.3,38.3
+Telangana,Wanaparthy,"Calendar Year (Jan - Dec), 2019",58.7,77.3,87,94.7,40.4,88.9,99,75.9,99.2,1018,52.1,37
+Telangana,Warangal,"Calendar Year (Jan - Dec), 2019",59.3,60,79,83.6,36.1,87.8,100,74.3,99.7,1070,60.1,40
+Telangana,Yadadri Bhuvanagiri,"Calendar Year (Jan - Dec), 2019",53.8,76.2,76.7,84.3,38.3,94.9,97.7,81.9,99.6,1071,68.4,48
+The Dadra And Nagar Haveli And Daman And Diu,Dadra And Nagar Haveli,"Calendar Year (Jan - Dec), 2019",64.4,72.8,100,98.5,42.4,74.3,96.3,63.1,99.7,817,72.8,31.5
+The Dadra And Nagar Haveli And Daman And Diu,Daman,"Calendar Year (Jan - Dec), 2019",60.8,52.5,78.3,73.6,30,92.1,97.4,67.1,99.5,755,85.9,42.9
+The Dadra And Nagar Haveli And Daman And Diu,Diu,"Calendar Year (Jan - Dec), 2019",50.3,77.8,92.9,100,33.9,85.3,95.7,89.7,100,1332,90.8,52.7
+Tripura,Dhalai,"Calendar Year (Jan - Dec), 2019",70,80.9,73.7,76.7,45.7,34,87.3,67.6,97.7,1034,71.6,13.9
+Tripura,Gomati,"Calendar Year (Jan - Dec), 2019",62.3,65.5,67.1,85.1,22.7,47.7,93.2,77.4,98.8,1011,77.2,22.8
+Tripura,Khowai,"Calendar Year (Jan - Dec), 2019",63.7,79.9,60.7,65.8,47,41.5,95.7,67.8,99,1059,80.5,18.9
+Tripura,North Tripura,"Calendar Year (Jan - Dec), 2019",69.3,78.3,69.6,67.9,26.2,41.6,85.4,74.1,96.2,1040,83.1,23.7
+Tripura,Sepahijala,"Calendar Year (Jan - Dec), 2019",69.4,58.9,70.3,78.6,34.5,37.1,87.7,75.4,99,1021,79.6,21.7
+Tripura,South Tripura,"Calendar Year (Jan - Dec), 2019",66.5,50.7,48.5,65.6,25.5,29.4,89.7,68.6,95.9,1054,80.3,21.6
+Tripura,Unakoti,"Calendar Year (Jan - Dec), 2019",67.9,66.8,58.3,66.7,31.8,29.2,71.5,61.8,96.4,1079,76.4,18.7
+Tripura,West Tripura,"Calendar Year (Jan - Dec), 2019",67.3,80.1,88.4,93.7,30.3,65.2,95.3,80.2,99.8,937,86.2,30.9
+Uttar Pradesh,Agra,"Calendar Year (Jan - Dec), 2019",59.4,67.7,74.1,78.2,35.9,67.5,89.1,70.8,99.1,952,63.1,36.1
+Uttar Pradesh,Aligarh,"Calendar Year (Jan - Dec), 2019",56.5,68.2,70.1,83.9,35,51.4,82.6,69.4,95.3,1031,66,37.5
+Uttar Pradesh,Ambedkar Nagar,"Calendar Year (Jan - Dec), 2019",52.7,48.9,75.1,91.3,31.1,32.2,92.2,63.6,94.2,1097,76.2,53
+Uttar Pradesh,Amethi,"Calendar Year (Jan - Dec), 2019",46.1,48.4,75.9,86.8,35.8,26.4,90.8,60.9,92.3,1170,63.3,34.6
+Uttar Pradesh,Amroha,"Calendar Year (Jan - Dec), 2019",47.6,65.7,72.9,91.1,42.2,45.4,81.1,78.9,96.4,1001,61.2,35.4
+Uttar Pradesh,Auraiya,"Calendar Year (Jan - Dec), 2019",39.1,51.4,82.5,84.3,39.7,33.7,90.1,74.3,94,1021,74.9,46.2
+Uttar Pradesh,Ayodhya,"Calendar Year (Jan - Dec), 2019",52.3,46,68.7,82.9,30.6,41.3,89.1,64.4,90.3,1049,73.8,49
+Uttar Pradesh,Azamgarh,"Calendar Year (Jan - Dec), 2019",54.3,52.7,64.5,80.3,33.4,37.6,93.2,72.8,96.5,1141,76.5,52.6
+Uttar Pradesh,Baghpat,"Calendar Year (Jan - Dec), 2019",53.3,71.7,83.9,93,25.5,51.5,80.9,87,98.5,938,76.3,44
+Uttar Pradesh,Bahraich,"Calendar Year (Jan - Dec), 2019",48.8,38.4,51.8,62.2,52.1,38.2,67.7,44.2,77.8,1012,38.8,14.4
+Uttar Pradesh,Ballia,"Calendar Year (Jan - Dec), 2019",52.2,55.2,62.2,65.7,43.8,53.8,90,61.7,89.1,1009,70,50.1
+Uttar Pradesh,Balrampur,"Calendar Year (Jan - Dec), 2019",53.7,49,57.4,67.9,41.2,39.6,69.7,59.7,78.4,1075,43.2,16.8
+Uttar Pradesh,Banda,"Calendar Year (Jan - Dec), 2019",52.2,62.4,62.9,64.9,51,26.8,89.8,59.3,89.2,956,57,27.1
+Uttar Pradesh,Barabanki,"Calendar Year (Jan - Dec), 2019",55.3,45.4,64.4,67.2,41.9,47.8,76,62.4,74.8,1074,56.1,29.5
+Uttar Pradesh,Bareilly,"Calendar Year (Jan - Dec), 2019",60.8,68.8,70.5,91,45.9,54.6,75.1,79.7,92.5,965,53.9,22.1
+Uttar Pradesh,Basti,"Calendar Year (Jan - Dec), 2019",39.9,72,73.8,77.4,35.9,57,93.2,64.2,94.6,1098,63.2,40.9
+Uttar Pradesh,Bhadohi,"Calendar Year (Jan - Dec), 2019",43.8,53.8,62.2,72.1,42.7,39.9,90.3,68.8,96.5,1082,69.7,46.5
+Uttar Pradesh,Bijnor,"Calendar Year (Jan - Dec), 2019",46,68.1,90.6,96.7,36.2,45.8,83.7,78.2,96.1,1059,72.8,39.7
+Uttar Pradesh,Budaun,"Calendar Year (Jan - Dec), 2019",55.3,76.9,69.5,74.5,51.8,39.8,72.3,69.7,80.7,933,49.7,21.6
+Uttar Pradesh,Bulandshahr,"Calendar Year (Jan - Dec), 2019",52,72.9,67.3,84.7,37.6,48.4,83.5,81.5,96.3,979,69.2,37.8
+Uttar Pradesh,Chandauli,"Calendar Year (Jan - Dec), 2019",48.7,60.4,70.6,82.6,39.5,42.3,86.2,66.7,91.9,986,70.6,47.2
+Uttar Pradesh,Chitrakoot,"Calendar Year (Jan - Dec), 2019",46.6,57.1,63.7,68.9,47.5,31.2,81.1,56.7,92,950,56.2,30.2
+Uttar Pradesh,Deoria,"Calendar Year (Jan - Dec), 2019",33.8,56.2,64.2,73.2,36.8,67.2,93.4,69.1,95.3,1046,71.3,50.4
+Uttar Pradesh,Etah,"Calendar Year (Jan - Dec), 2019",55.4,73.1,55.5,71.9,48.8,39.6,76.7,62.7,88,1047,67.8,38.8
+Uttar Pradesh,Etawah,"Calendar Year (Jan - Dec), 2019",57.4,71,77.7,87.2,38.8,48.6,85.2,78.1,95.7,968,77.4,45.7
+Uttar Pradesh,Farrukhabad,"Calendar Year (Jan - Dec), 2019",56.9,67.2,68.5,83.7,47.8,45.5,69.3,72.6,91.8,972,63.1,33.3
+Uttar Pradesh,Fatehpur,"Calendar Year (Jan - Dec), 2019",63,66.2,55.7,63.5,51.1,38.9,81.4,63.1,76.8,1035,62.3,37.3
+Uttar Pradesh,Firozabad,"Calendar Year (Jan - Dec), 2019",57.1,66.9,67.1,72.9,46.9,53.5,80.1,69,96.3,950,71.4,42.4
+Uttar Pradesh,Gautam Buddha Nagar,"Calendar Year (Jan - Dec), 2019",59.4,76.3,68.2,90.4,25.5,75,86.6,74,99.4,897,79.9,51.9
+Uttar Pradesh,Ghaziabad,"Calendar Year (Jan - Dec), 2019",55.2,72.7,68.5,83.8,28.2,92.4,86.4,84.5,99.9,930,80.1,55.2
+Uttar Pradesh,Ghazipur,"Calendar Year (Jan - Dec), 2019",45.7,62.9,60.8,69.9,39.3,39.3,88.3,64.1,91.8,1053,72.4,51.4
+Uttar Pradesh,Gonda,"Calendar Year (Jan - Dec), 2019",49.3,41.1,59.9,66.2,45.9,56.2,81.8,44.6,88.9,1078,57.7,31.5
+Uttar Pradesh,Gorakhpur,"Calendar Year (Jan - Dec), 2019",52.9,63.8,67.7,69.3,29.6,66.8,91.6,69.6,94.9,1089,68.8,42.8
+Uttar Pradesh,Hamirpur,"Calendar Year (Jan - Dec), 2019",46.1,61.3,77.1,79.8,48,29,96.3,77.7,94.6,1003,69.4,37.6
+Uttar Pradesh,Hapur,"Calendar Year (Jan - Dec), 2019",50.6,70.3,84.4,89.1,30.2,68,83.3,85.6,98.8,917,73.7,43.5
+Uttar Pradesh,Hardoi,"Calendar Year (Jan - Dec), 2019",59.7,58.3,63.3,62.4,44.5,29,73.9,55.7,71,975,55,26.5
+Uttar Pradesh,Hathras,"Calendar Year (Jan - Dec), 2019",58.2,57.5,71.6,79.5,39.1,46.5,80.3,73.3,94.9,1029,65.5,39.1
+Uttar Pradesh,Jalaun,"Calendar Year (Jan - Dec), 2019",44.2,62.4,66.2,64.7,45.1,36.5,85.1,80.2,96.9,937,66.8,38.9
+Uttar Pradesh,Jaunpur,"Calendar Year (Jan - Dec), 2019",34,62,75.1,83.6,40.5,55.2,88.8,62.6,98.2,1066,75.9,52.7
+Uttar Pradesh,Jhansi,"Calendar Year (Jan - Dec), 2019",41.3,62,44.5,53.9,40.9,51.9,92.9,73.2,95.2,946,69.2,43.3
+Uttar Pradesh,Kannauj,"Calendar Year (Jan - Dec), 2019",65.2,69.4,55.8,56.8,43,35.5,76.4,70.1,87.3,1003,64.8,37.3
+Uttar Pradesh,Kanpur Dehat,"Calendar Year (Jan - Dec), 2019",54.9,60.1,56.3,68,44.1,39.3,84.3,70.6,79.8,974,70.8,45.4
+Uttar Pradesh,Kanpur Nagar,"Calendar Year (Jan - Dec), 2019",57,73.7,72.8,81.2,34.6,76.9,86.6,77.5,89.3,925,81.3,58.5
+Uttar Pradesh,Kasganj,"Calendar Year (Jan - Dec), 2019",64.6,65.2,69.2,74.6,45.1,36.6,74.8,69.8,87.2,1040,56.4,29.7
+Uttar Pradesh,Kaushambi,"Calendar Year (Jan - Dec), 2019",54.4,62.5,65.7,77.1,40.2,37,88.6,59.6,78.7,1069,58.6,31.9
+Uttar Pradesh,Kheri,"Calendar Year (Jan - Dec), 2019",53,54.9,69.5,76.2,47.6,35.9,82.8,65.6,84.2,998,57.5,28.7
+Uttar Pradesh,Kushi Nagar,"Calendar Year (Jan - Dec), 2019",42.3,64.2,65.4,82.9,32.2,55.2,89.4,73.1,91.5,1145,62.5,34.1
+Uttar Pradesh,Lalitpur,"Calendar Year (Jan - Dec), 2019",38.1,73.8,70.8,73,46.6,20.3,90.8,64.2,94.1,997,55.3,23.8
+Uttar Pradesh,Lucknow,"Calendar Year (Jan - Dec), 2019",55.8,56.5,68.9,84.5,32.1,78.3,91.3,80.4,96.8,950,78.4,51.9
+Uttar Pradesh,Mahoba,"Calendar Year (Jan - Dec), 2019",49.4,61.6,70.7,73.9,42.3,28.2,96.3,69,95.9,972,65.6,30.7
+Uttar Pradesh,Mahrajganj,"Calendar Year (Jan - Dec), 2019",47.1,62.9,76.2,82.8,40.5,65.1,93.3,66.7,94.8,1116,62,33.8
+Uttar Pradesh,Mainpuri,"Calendar Year (Jan - Dec), 2019",57.8,80.1,75,87.7,44.3,39.8,82.7,63.1,95.2,1016,74.2,45.8
+Uttar Pradesh,Mathura,"Calendar Year (Jan - Dec), 2019",63,58.2,73.6,80.5,31.6,47.3,79.5,71.2,98.2,935,64.4,34.7
+Uttar Pradesh,Mau,"Calendar Year (Jan - Dec), 2019",44.3,54.2,59.1,63.3,25.4,54.2,94.7,75.1,94.2,989,72,53.1
+Uttar Pradesh,Meerut,"Calendar Year (Jan - Dec), 2019",45.5,72.4,82.5,92.2,32.1,68.5,80.6,82.7,98.6,967,79,47.3
+Uttar Pradesh,Mirzapur,"Calendar Year (Jan - Dec), 2019",42.1,61.5,68.3,83.3,43.4,42.5,91.1,72.3,92.7,1003,70.9,43.8
+Uttar Pradesh,Moradabad,"Calendar Year (Jan - Dec), 2019",44.9,69.8,84.5,90.6,34.7,58.3,80.3,79,96,1002,66.7,42.6
+Uttar Pradesh,Muzaffarnagar,"Calendar Year (Jan - Dec), 2019",46,73.2,69.5,79.6,29.8,59.8,87,80.1,97.8,957,72.1,41.8
+Uttar Pradesh,Pilibhit,"Calendar Year (Jan - Dec), 2019",52,74.1,92.3,90.4,38.9,48.1,76.2,76.8,86.8,922,54.7,28.5
+Uttar Pradesh,Pratapgarh,"Calendar Year (Jan - Dec), 2019",48.9,51.9,75,92.1,35.5,37.1,90.8,52,92.5,1229,74.8,49.7
+Uttar Pradesh,Prayagraj,"Calendar Year (Jan - Dec), 2019",46.4,63.1,55.8,67.8,37.9,45.1,83.2,59.5,95,1083,67.7,47.6
+Uttar Pradesh,Rae Bareli,"Calendar Year (Jan - Dec), 2019",48.2,69.3,71.4,77.2,47,39.4,89.5,55,88.9,1102,62.8,36.1
+Uttar Pradesh,Rampur,"Calendar Year (Jan - Dec), 2019",55.4,56.8,79.4,81.9,40.4,46.2,81,79,96.2,1022,57,26.9
+Uttar Pradesh,Saharanpur,"Calendar Year (Jan - Dec), 2019",41.4,73.7,89.2,93.4,28.8,56.6,81.7,83.8,98.3,984,71.2,38.2
+Uttar Pradesh,Sambhal,"Calendar Year (Jan - Dec), 2019",51.3,65.9,83,89.6,51.6,38.2,74.2,72.8,91.9,1019,51.3,24.1
+Uttar Pradesh,Sant Kabir Nagar,"Calendar Year (Jan - Dec), 2019",43.5,69.2,80.2,82.9,42.3,58.1,90.6,65.1,94,1185,61.3,34.8
+Uttar Pradesh,Shahjahanpur,"Calendar Year (Jan - Dec), 2019",60.3,70.3,76.5,84.5,44.5,40.4,63.3,69.2,84.1,977,56.8,27.7
+Uttar Pradesh,Shamli,"Calendar Year (Jan - Dec), 2019",41.7,71,91.1,95.3,28.6,53.6,78.3,83.3,98.7,989,64.2,32.6
+Uttar Pradesh,Shrawasti,"Calendar Year (Jan - Dec), 2019",44.4,49.8,59.6,69.8,50.9,36.9,80.4,58.1,73.7,1037,39.1,15.9
+Uttar Pradesh,Siddharth Nagar,"Calendar Year (Jan - Dec), 2019",51.2,65,65.1,68.1,37.2,50.6,69.7,42.8,90.7,1177,48.3,17
+Uttar Pradesh,Sitapur,"Calendar Year (Jan - Dec), 2019",55.3,51.1,65.9,72.2,47.8,31.5,84.8,52.5,68.4,970,53.4,23.9
+Uttar Pradesh,Sonbhadra,"Calendar Year (Jan - Dec), 2019",44.5,67.1,72.7,82.3,38.3,30.4,76.8,70.6,82.9,995,60.9,35.7
+Uttar Pradesh,Sultanpur,"Calendar Year (Jan - Dec), 2019",50.2,47.6,80.2,92.7,33.4,33.7,87,65.1,94.3,1151,71.9,46.6
+Uttar Pradesh,Unnao,"Calendar Year (Jan - Dec), 2019",48.9,48.7,58.6,62.5,39.2,43.4,80.8,60.3,75.4,993,64.4,37
+Uttar Pradesh,Varanasi,"Calendar Year (Jan - Dec), 2019",37.6,72.5,79.3,78.6,37.4,71.5,95.2,83.2,97.2,951,79,55
+Uttarakhand,Almora,"Calendar Year (Jan - Dec), 2019",33.4,78.6,85.1,96.3,26,35.9,80.1,89.2,99.9,1331,86.3,48
+Uttarakhand,Bageshwar,"Calendar Year (Jan - Dec), 2019",27.8,78.8,86.9,91,23.6,34.6,82,88.5,99.8,1174,87.2,52.2
+Uttarakhand,Chamoli,"Calendar Year (Jan - Dec), 2019",41.8,73.7,85,91.1,34.1,37.4,73.9,87.6,99.5,1087,89.2,59
+Uttarakhand,Champawat,"Calendar Year (Jan - Dec), 2019",32.5,66.7,91.9,91.6,24.9,39.8,79.8,82.7,99.6,1112,83.8,51
+Uttarakhand,Dehradun,"Calendar Year (Jan - Dec), 2019",47.9,75,76,83,20.9,88.8,91.7,83.9,99.7,915,85.8,62.6
+Uttarakhand,Haridwar,"Calendar Year (Jan - Dec), 2019",43.8,63.6,76.5,93.7,31.1,61.5,79.8,69.8,99.7,946,73.7,40.3
+Uttarakhand,Nainital,"Calendar Year (Jan - Dec), 2019",34.5,74.7,74.1,73.5,23.2,71.6,81.2,82.4,99.1,1014,83.9,55.2
+Uttarakhand,Pauri Garhwal,"Calendar Year (Jan - Dec), 2019",40.3,78,76,80.4,30,48.1,76,83.3,99.4,1166,84,56.2
+Uttarakhand,Pithoragarh,"Calendar Year (Jan - Dec), 2019",25.5,71.2,96,97,25.6,45.9,84.9,84.5,99.6,1043,87.6,55.5
+Uttarakhand,Rudra Prayag,"Calendar Year (Jan - Dec), 2019",40.6,72.1,91.4,94,25.2,35.1,86.6,86.8,99.5,1242,86.1,56.4
+Uttarakhand,Tehri Garhwal,"Calendar Year (Jan - Dec), 2019",42.2,67.3,83,77.6,29.3,34.9,82.2,84.6,99.9,1236,74.9,50.8
+Uttarakhand,Udam Singh Nagar,"Calendar Year (Jan - Dec), 2019",51,67.2,83.2,92.2,26.8,64,85.1,70.9,99.6,957,70.4,41.1
+Uttarakhand,Uttar Kashi,"Calendar Year (Jan - Dec), 2019",60.9,73.8,81.8,91.5,34.1,32.6,85.9,75.7,99.6,1024,80.1,53.6
+West Bengal,Bankura,"Calendar Year (Jan - Dec), 2019",77,56.7,85,94.6,30.3,20.8,93.3,49.2,92.3,1053,68.3,27.9
+West Bengal,Birbhum,"Calendar Year (Jan - Dec), 2019",77.7,82.2,81.6,90.9,37,28.1,90.3,55,97.8,1033,70.8,25.8
+West Bengal,Coochbehar,"Calendar Year (Jan - Dec), 2019",74.8,81.7,94.2,97.1,28.7,25.7,93,75.7,98.2,1058,79.2,26.7
+West Bengal,Dakshin Dinajpur,"Calendar Year (Jan - Dec), 2019",82,78.6,92.6,93,31.9,28.7,91.4,79,96.5,1106,74.3,30.5
+West Bengal,Darjeeling,"Calendar Year (Jan - Dec), 2019",59.2,82.2,94.2,94.2,34.3,68.8,98.4,83,98.2,1029,77,41.3
+West Bengal,Hooghly,"Calendar Year (Jan - Dec), 2019",75.1,74.9,95.4,95.2,28.9,54.6,97,76.2,98.4,1082,77.4,37
+West Bengal,Howrah,"Calendar Year (Jan - Dec), 2019",65.3,84.5,87.8,90.8,27.5,61.9,95.5,72.9,99,1011,80.5,40.1
+West Bengal,Jalpaiguri,"Calendar Year (Jan - Dec), 2019",71.4,82.7,87.9,96.3,28.9,42.7,95.8,73.2,97.4,1038,73.6,33.9
+West Bengal,Kolkata,"Calendar Year (Jan - Dec), 2019",58.2,84.7,80.2,79,29.6,91.7,97.5,60.9,99.6,954,87.6,55.4
+West Bengal,Malda,"Calendar Year (Jan - Dec), 2019",73.6,75.3,87.2,93.1,40.5,29.6,87.7,62,98.1,1062,72.3,30
+West Bengal,Murshidabad,"Calendar Year (Jan - Dec), 2019",77.6,85.4,90,89.7,39.8,30.7,87,69.7,96.7,1103,67.6,24.2
+West Bengal,Nadia,"Calendar Year (Jan - Dec), 2019",73.4,59.9,89.9,91.8,26.1,34.2,97.7,78.4,98.2,1071,76.2,28.3
+West Bengal,North 24 Parganas,"Calendar Year (Jan - Dec), 2019",65.3,78.8,92.8,97.1,32.4,58.9,97.5,80.4,99.5,1013,85.5,40.7
+West Bengal,Paschim Bardhaman,"Calendar Year (Jan - Dec), 2019",65.8,65.3,62.4,69.7,39.7,56.3,89.8,71.5,97,977,73.5,37.1
+West Bengal,Paschim Medinipur,"Calendar Year (Jan - Dec), 2019",81.5,60.7,76.9,86.8,31.1,17.5,87.6,58.3,95.4,1089,70.9,26.2
+West Bengal,Purba Bardhaman,"Calendar Year (Jan - Dec), 2019",77.9,67.9,97.2,97.2,32.7,32.1,96,64.2,96.8,1067,73.2,27.3
+West Bengal,Purba Medinipur,"Calendar Year (Jan - Dec), 2019",70.4,59.3,88.4,74.3,25.8,17,91.5,69.8,99,1031,77,30.9
+West Bengal,Purulia,"Calendar Year (Jan - Dec), 2019",76.7,51,84.7,87,36.9,23.2,89.8,29.2,88.6,1065,61,26.9
+West Bengal,South 24 Parganas,"Calendar Year (Jan - Dec), 2019",61.6,82.9,91.7,96.3,36.7,36.2,91,70.1,99.2,1055,85.6,34.9
+West Bengal,Uttar Dinajpur,"Calendar Year (Jan - Dec), 2019",72.4,81.2,84.4,86.4,44.8,27.2,76.9,63.8,96.9,1093,65.4,29.3
